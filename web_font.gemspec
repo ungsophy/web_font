@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ungsophy@gmail.com"]
   spec.description   = 'Download web fonts'
   spec.summary       = 'Download web fonts'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ungsophy/web_font"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
