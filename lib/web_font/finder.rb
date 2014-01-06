@@ -35,10 +35,8 @@ module WebFont
       end
 
       def read_json(filename)
-        file = File.open(File.join(WebFont::Data.path, filename))
-        JSON.parse(file.read)
-      ensure
-        file.close
+        path = File.join(WebFont::Data.path, filename)
+        File.open(path) { |file| JSON.parse(file.read) }
       end
 
       def read_fonts
