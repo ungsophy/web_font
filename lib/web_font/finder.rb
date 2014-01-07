@@ -27,6 +27,19 @@ module WebFont
       item || {}
     end
 
+    # A convenient method to get all font variants
+    #
+    # Returns array
+    def info(font_family)
+      item = find(font_family)
+      return [] unless item['family']
+
+      font_family = item['family'].gsub(/\s/, '-')
+      item['files'].map do |variant, url|
+        "#{font_family}-#{variant}#{File.extname(url)}"
+      end
+    end
+
     private
 
       def match?(font_family1, font_family2)
