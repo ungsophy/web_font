@@ -11,16 +11,20 @@ module WebFont
     # Download fonts data from Google and index it
     #
     # Returns nothing
-    def self.download(destination = nil)
+    def self.download
+      assert_path!
       raise ArgumentError, "ENV['GOOGLE_API_KEY'] is nil" unless ENV['GOOGLE_API_KEY']
 
-      destination ||= path
-      FileUtils.mkdir_p(destination) unless Dir.exist?(destination)
+      FileUtils.mkdir_p(path) unless Dir.exist?(path)
 
       url = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
-      system("wget -O #{destination}/fonts.json #{url}")
+      system("wget -O #{path}/fonts.json #{url}")
 
-      index(destination)
+      index
+    end
+
+    def self.assert_path!
+      raise ArgumentError, 'path is empty' unless path
     end
 
     private
@@ -28,12 +32,12 @@ module WebFont
     # Index fonts data so it will speed things up when search
     #
     # Returns nothing
-      def self.index(destination)
+      def self.index
         indices           = {}
         alphabet          = 'a'
         indices[alphabet] = { 'start' => 0 }
 
-        hash = JSON.parse(File.open("#{destination}/fonts.json").read)
+        hash = JSON.parse(File.open("#{path}/fonts.json").read)
         hash['items'].each_with_index do |item, index|
           family = item['family']
 
@@ -46,7 +50,7 @@ module WebFont
         end
         indices[alphabet]['end'] = hash['items'].size - 1
 
-        File.open("#{destination}/index.json", 'w') { |file| file.write(indices.to_json) }
+        File.open("#{path}/index.json", 'w') { |file| file.write(indices.to_json) }
       end
   end
 end
