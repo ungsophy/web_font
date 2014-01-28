@@ -8,11 +8,37 @@ module WebFont
       attr_accessor :path
     end
 
-    # Download fonts data from Google and index it
+    # Download font index from Google, save it locally and index it.
+    #
+    # fonts.json schema:
+    # {
+    #   "kind": "webfonts#webfontList",
+    #   "items": [
+    #     {
+    #       "kind": "webfonts#webfont",
+    #       "family": "ABeeZee",
+    #       "variants": [
+    #         "regular",
+    #         "italic"
+    #       ],
+    #       "subsets": [
+    #         "latin"
+    #       ],
+    #       "version": "v1",
+    #       "lastModified": "2013-12-16",
+    #       "files": {
+    #         "regular": "http://themes.googleusercontent.com/static/fonts/abeezee/v1/mE5BOuZKGln_Ex0uYKpIaw.ttf",
+    #         "italic": "http://themes.googleusercontent.com/static/fonts/abeezee/v1/kpplLynmYgP0YtlJA3atRw.ttf"
+    #       }
+    #     },
+    #     { ... },
+    #     { ... }
+    #   ]
+    # }
     #
     # Returns nothing
     def self.download
-      assert_path!
+      raise ArgumentError, 'path is empty' unless path
       raise ArgumentError, "ENV['GOOGLE_API_KEY'] is nil" unless ENV['GOOGLE_API_KEY']
 
       FileUtils.mkdir_p(path) unless Dir.exist?(path)
@@ -23,15 +49,11 @@ module WebFont
       index
     end
 
-    def self.assert_path!
-      raise ArgumentError, 'path is empty' unless path
-    end
-
     private
 
-    # Index fonts data so it will speed things up when search
-    #
-    # Returns nothing
+      # Index font data so it will speed things up when searching
+      #
+      # Returns nothing
       def self.index
         indices           = {}
         alphabet          = 'a'
