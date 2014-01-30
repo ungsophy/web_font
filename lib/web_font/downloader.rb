@@ -21,7 +21,7 @@ module WebFont
         filename = File.join(destination_path, "#{font_family}-#{variant}")
         extname  = File.extname(url)
 
-        system("wget -O #{filename}#{extname} #{url}") unless File.exist?("#{filename}#{extname}")
+        system("wget -q -O #{filename}#{extname} #{url}") unless File.exist?("#{filename}#{extname}")
       end
     end
   end

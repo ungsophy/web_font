@@ -44,7 +44,7 @@ module WebFont
       FileUtils.mkdir_p(path) unless Dir.exist?(path)
 
       url = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
-      system("wget -O #{path}/fonts.json #{url}")
+      system("wget -q -O #{path}/fonts.json #{url}")
 
       index
     end
