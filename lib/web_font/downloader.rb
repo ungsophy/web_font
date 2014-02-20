@@ -20,8 +20,9 @@ module WebFont
       item['files'].each do |variant, url|
         filename = File.join(destination_path, "#{font_family}-#{variant}")
         extname  = File.extname(url)
+        font     = "#{filename}#{extname}"
 
-        system("wget -q -O #{filename}#{extname} #{url}") unless File.exist?("#{filename}#{extname}")
+        WebFont::Command.wget(url, font) unless File.exist?(font)
       end
     end
   end

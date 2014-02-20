@@ -43,8 +43,9 @@ module WebFont
 
       FileUtils.mkdir_p(path) unless Dir.exist?(path)
 
-      url = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
-      system("wget -q -O #{path}/fonts.json #{url}")
+      url         = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
+      output_path = "#{path}/fonts.json"
+      WebFont::Command.wget(url, output_path)
 
       index
     end

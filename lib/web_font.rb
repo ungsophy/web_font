@@ -1,4 +1,5 @@
 require 'web_font/version'
+require 'web_font/command'
 require 'web_font/downloader'
 require 'web_font/data'
 require 'web_font/finder'
