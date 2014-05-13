@@ -7,11 +7,31 @@ describe WebFont::Downloader do
   after { FileUtils.rm(Dir.glob("#{destination_path}/*.ttf")) }
 
   describe '#download' do
-    it 'downloads all fonts in the item' do
-      downloader = WebFont::Downloader.new
-      downloader.download('Open Sans', destination_path)
 
-      Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal 10
+    describe 'when fonts do not exist in local cache' do
+      before { FileUtils.rm(Dir.glob("#{WebFont.test_root}/local_cache/*.ttf")) }
+      after { FileUtils.rm(Dir.glob("#{WebFont.test_root}/local_cache/*.ttf")) }
+
+      it 'downloads all fonts in the item' do
+        downloader = WebFont::Downloader.new
+        downloader.download('Open Sans', destination_path)
+
+        Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal 10
+      end
+    end
+
+    describe 'when fonts are in local cache' do
+      before { FileUtils.copy(Dir.glob('test/data/fonts/*.ttf'), 'test/local_cache/') }
+      after { FileUtils.rm(Dir.glob("#{WebFont.test_root}/local_cache/*.ttf")) }
+
+      it 'copies files from local cache' do
+        Dir.glob('test/data/fonts/*.ttf').size.must_equal 11
+
+        downloader = WebFont::Downloader.new
+        downloader.download('Open Sans', destination_path)
+
+        Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal 10
+      end
     end
   end
 end

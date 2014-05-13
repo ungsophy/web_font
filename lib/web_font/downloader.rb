@@ -10,19 +10,23 @@ module WebFont
     # Download font from Google and save it locally
     #
     # Returns nothing
-    def download(font_family, destination_path)
+    def download(font_family, destination_path, from_cache = true)
       item = finder.find(font_family)
-
       return if item.empty?
 
       font_family = item['family'].gsub(/\s/, '-')
-
       item['files'].each do |variant, url|
-        filename = File.join(destination_path, "#{font_family}-#{variant}")
-        extname  = File.extname(url)
-        font     = "#{filename}#{extname}"
+        filename  = "#{font_family}-#{variant}#{File.extname(url)}"
+        font_path = File.join(destination_path, filename)
 
-        WebFont::Command.wget(url, font) unless File.exist?(font)
+        if from_cache && LocalCache.enable? && cache_path = LocalCache.path(filename)
+          FileUtils.copy(cache_path, destination_path)
+        else
+          unless File.exist?(font_path)
+            WebFont::Command.wget(url, font_path)
+            LocalCache.save(font_path)
+          end
+        end
       end
     end
   end
