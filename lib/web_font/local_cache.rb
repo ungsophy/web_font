@@ -9,8 +9,13 @@ module WebFont
       end
 
       def save(font)
+        return nil unless cache_path
+
         filename = File.basename(font)
-        FileUtils.copy(font, File.join(cache_path, filename))
+        path     = File.join(cache_path, filename)
+        FileUtils.copy(font, path)
+
+        path
       end
 
       def enable?

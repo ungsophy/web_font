@@ -46,7 +46,7 @@ module WebFont
       end
 
       def read_json(filename)
-        path = File.join(WebFont::Index.path, filename)
+        path = File.join(Index.path, filename)
         File.open(path) { |file| JSON.parse(file.read) }
       end
 

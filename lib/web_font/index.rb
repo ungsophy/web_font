@@ -42,7 +42,7 @@ module WebFont
 
       url         = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
       output_path = "#{path}/fonts.json"
-      WebFont::Command.wget(url, output_path)
+      Command.wget(url, output_path)
 
       index
     end

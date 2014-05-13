@@ -4,7 +4,7 @@ module WebFont
     attr_reader :finder
 
     def initialize
-      @finder = WebFont::Finder.new
+      @finder = Finder.new
     end
 
     # Download font from Google and save it locally
@@ -23,7 +23,7 @@ module WebFont
           FileUtils.copy(cache_path, destination_path)
         else
           unless File.exist?(font_path)
-            WebFont::Command.wget(url, font_path)
+            Command.wget(url, font_path)
             LocalCache.save(font_path)
           end
         end
