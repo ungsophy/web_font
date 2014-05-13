@@ -19,7 +19,7 @@ module WebFont
       end
 
       def enable?
-        cache && cache_path && Dir.exist?(cache_path)
+        cache && !!cache_path && Dir.exist?(cache_path)
       end
     end
   end
