@@ -1,8 +1,5 @@
-require 'json'
-require 'fileutils'
-
 module WebFont
-  module Data
+  module Index
 
     class << self
       attr_accessor :path

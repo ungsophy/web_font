@@ -1,5 +1,3 @@
-require 'json'
-
 module WebFont
   class Finder
 
@@ -48,7 +46,7 @@ module WebFont
       end
 
       def read_json(filename)
-        path = File.join(WebFont::Data.path, filename)
+        path = File.join(WebFont::Index.path, filename)
         File.open(path) { |file| JSON.parse(file.read) }
       end
 

@@ -33,10 +33,10 @@ To download font from Google, you need to have [Google API Key](https://www.goog
 require 'web_font'
 
 ENV['GOOGLE_API_KEY'] = '...'
-WebFont::Data.path    = '/some/where/in/your/disk'
+WebFont::Index.path    = '/some/where/in/your/disk'
 
 # First you need to have font index
-WebFont::Data.download
+WebFont::Index.download
 
 # Then you can download font 'Open Sans' and store it in /users/foo
 downloader = WebFont::Downloader.new

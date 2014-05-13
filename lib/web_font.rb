@@ -1,9 +1,10 @@
+require 'json'
 require 'fileutils'
 
 require 'web_font/version'
 require 'web_font/command'
 require 'web_font/downloader'
-require 'web_font/data'
+require 'web_font/index'
 require 'web_font/finder'
 require 'web_font/local_cache'
 
