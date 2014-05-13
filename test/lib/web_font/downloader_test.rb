@@ -21,11 +21,21 @@ describe WebFont::Downloader do
     end
 
     describe 'when fonts are in local cache' do
-      before { FileUtils.copy(Dir.glob('test/data/fonts/*.ttf'), 'test/local_cache/') }
+      before do
+        FileUtils.copy(Dir.glob('test/fonts/*.ttf'), 'test/local_cache/')
+        FileUtils.rm(Dir.glob(File.join(destination_path, '*')))
+      end
       after { FileUtils.rm(Dir.glob("#{WebFont.test_root}/local_cache/*.ttf")) }
 
+      it 'calls FileUtils 10 times' do
+        FileUtils.expects(:copy).with(instance_of(String), instance_of(String)).times(10)
+
+        downloader = WebFont::Downloader.new
+        downloader.download('Open Sans', destination_path)
+      end
+
       it 'copies files from local cache' do
-        Dir.glob('test/data/fonts/*.ttf').size.must_equal 11
+        Dir.glob('test/fonts/*.ttf').size.must_equal 11
 
         downloader = WebFont::Downloader.new
         downloader.download('Open Sans', destination_path)

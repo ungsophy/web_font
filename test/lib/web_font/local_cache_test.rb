@@ -35,7 +35,7 @@ describe WebFont::LocalCache do
   describe '.save' do
     it 'saves font in local directory' do
       font_name = 'suwannaphum.ttf'
-      WebFont::LocalCache.save("test/data/fonts/#{font_name}")
+      WebFont::LocalCache.save("test/fonts/#{font_name}")
 
       File.exist?("test/local_cache/#{font_name}").must_equal true
     end
@@ -51,7 +51,7 @@ describe WebFont::LocalCache do
     end
 
     describe 'when font exist in local cache' do
-      before { FileUtils.copy('test/data/fonts/suwannaphum.ttf', 'test/local_cache') }
+      before { FileUtils.copy('test/fonts/suwannaphum.ttf', 'test/local_cache') }
 
       it 'returns path' do
         filename = 'suwannaphum.ttf'
