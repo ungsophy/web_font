@@ -13,13 +13,13 @@ module WebFont
 
         filename = File.basename(font)
         path     = File.join(cache_path, filename)
-        FileUtils.copy(font, path)
+        FileUtils.copy(font, path) unless font == path
 
         path
       end
 
       def enable?
-        cache && cache_path && Dir.exist?(cache_path)
+        cache && !!cache_path && Dir.exist?(cache_path)
       end
     end
   end
