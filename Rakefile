@@ -7,7 +7,7 @@ Rake::TestTask.new do |t|
 end
 task default: :test
 
-ENV['GOOGLE_API_KEY']        ||= 'AIzaSyDhMw8jN0DSS6mLn17fRgMYPcOLblDD3XY'
+# ENV['GOOGLE_API_KEY']        ||= ''
 WebFont::Index.path            = File.expand_path('../cache/index', __FILE__)
 
 WebFont::LocalCache.cache      = true
