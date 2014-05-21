@@ -25,11 +25,14 @@ module WebFont
             downloader = WebFont::Downloader.new
             cache_path = WebFont::LocalCache.cache_path
 
-            if WebFont::LocalCache.enable?
-              FileUtils.mkdir_p(cache_path)
+            unless WebFont::LocalCache.cache
+              raise 'WebFont::LocalCache.cache is false.'
+            end
+
+            if cache_path
+              FileUtils.mkdir_p(cache_path) if !Dir.exist?(cache_path)
             else
-              raise 'WebFont::LocalCache.cache_path is empty or ' +
-                    'WebFont::LocalCache.cache is false.'
+              raise 'WebFont::LocalCache.cache_path is empty.'
             end
 
             file_path  = "#{WebFont::Index.path}/fonts.json"
