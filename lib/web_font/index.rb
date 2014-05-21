@@ -35,8 +35,8 @@ module WebFont
     #
     # Returns nothing
     def self.download
-      raise ArgumentError, 'path is empty' unless path
-      raise ArgumentError, "ENV['GOOGLE_API_KEY'] is nil" unless ENV['GOOGLE_API_KEY']
+      raise 'WebFont::Index.path is empty' unless path
+      raise "ENV['GOOGLE_API_KEY'] is empty" unless ENV['GOOGLE_API_KEY']
 
       FileUtils.mkdir_p(path) unless Dir.exist?(path)
 
