@@ -22,11 +22,12 @@ module WebFont
           task :cache_fonts do
             WebFont::Index.download
 
-            unless Dir.exist?(WebFont::LocalCache.cache_path)
-              FileUtils.mkdir_p(WebFont::LocalCache.cache_path)
-            end
-
             downloader = WebFont::Downloader.new
+            cache_path = WebFont::LocalCache.cache_path
+
+            if cache_path && !Dir.exist?(cache_path)
+              FileUtils.mkdir_p(cache_path)
+            end
 
             file_path  = "#{WebFont::Index.path}/fonts.json"
             hash       = JSON.parse(File.open(file_path).read)
@@ -36,7 +37,7 @@ module WebFont
 
               puts family
 
-              downloader.download(family, WebFont::LocalCache.cache_path, false)
+              downloader.download(family, cache_path, false)
             end
 
             puts "\n"
