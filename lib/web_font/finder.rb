@@ -15,8 +15,10 @@ module WebFont
       font_family = font_family.downcase
       alphabet    = font_family[0]
       hash        = indices[alphabet]
-      start       = hash['start']
 
+      return {} unless hash
+
+      start = hash['start']
       item = while start <= hash['end']
                break items[start] if match?(font_family, items[start]['family'])
                start += 1

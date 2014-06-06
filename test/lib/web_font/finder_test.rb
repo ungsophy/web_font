@@ -17,6 +17,13 @@ describe WebFont::Finder do
 
       item.must_be_empty
     end
+
+    it 'returns {} when nothing is found' do
+      font_name = '27Arial'
+      item      = finder.find(font_name)
+
+      item.must_be_empty
+    end
   end
 
   describe '#info' do
