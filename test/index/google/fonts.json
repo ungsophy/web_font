@@ -157,10 +157,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/aguafinascript/v3/65g7cgMtMGnNlNyq_Z6CvMxLhO8OSNnfAp53LK1_iRs.ttf"
+    "regular": "http://fonts.gstatic.com/s/aguafinascript/v4/65g7cgMtMGnNlNyq_Z6CvMxLhO8OSNnfAp53LK1_iRs.ttf"
    }
   },
   {
@@ -191,10 +191,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/aladin/v3/PyuJ5cVHkduO0j5fAMKvAA.ttf"
+    "regular": "http://fonts.gstatic.com/s/aladin/v4/PyuJ5cVHkduO0j5fAMKvAA.ttf"
    }
   },
   {
@@ -307,8 +307,8 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2013-12-05",
@@ -351,8 +351,8 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2013-12-05",
@@ -448,10 +448,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/alikeangular/v4/OpeCu4xxI3qO1C7CZcJtPT3XH2uEnVI__ynTBvNyki8.ttf"
+    "regular": "http://fonts.gstatic.com/s/alikeangular/v5/OpeCu4xxI3qO1C7CZcJtPT3XH2uEnVI__ynTBvNyki8.ttf"
    }
   },
   {
@@ -536,13 +536,13 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/almendra/v6/PDpbB-ZF7deXAAEYPkQOeg.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/almendra/v6/CNWLyiDucqVKVgr4EMidi_esZW2xOQ-xsNqO47m55DA.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/almendra/v6/ZpLdQMj7Q2AFio4nNO6A76CWcynf_cDxXwCLxiixG1c.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/almendra/v6/-tXHKMcnn6FqrhJV3l1e3QJKKGfqHaYFsRG-T3ceEVo.ttf"
+    "regular": "http://fonts.gstatic.com/s/almendra/v7/PDpbB-ZF7deXAAEYPkQOeg.ttf",
+    "italic": "http://fonts.gstatic.com/s/almendra/v7/CNWLyiDucqVKVgr4EMidi_esZW2xOQ-xsNqO47m55DA.ttf",
+    "700": "http://fonts.gstatic.com/s/almendra/v7/ZpLdQMj7Q2AFio4nNO6A76CWcynf_cDxXwCLxiixG1c.ttf",
+    "700italic": "http://fonts.gstatic.com/s/almendra/v7/-tXHKMcnn6FqrhJV3l1e3QJKKGfqHaYFsRG-T3ceEVo.ttf"
    }
   },
   {
@@ -589,10 +589,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/amarante/v2/2dQHjIBWSpydit5zkJZnOw.ttf"
+    "regular": "http://fonts.gstatic.com/s/amarante/v3/2dQHjIBWSpydit5zkJZnOw.ttf"
    }
   },
   {
@@ -645,10 +645,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/amethysta/v2/1jEo9tOFIJDolAUpBnWbnA.ttf"
+    "regular": "http://fonts.gstatic.com/s/amethysta/v3/1jEo9tOFIJDolAUpBnWbnA.ttf"
    }
   },
   {
@@ -662,10 +662,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/anaheim/v2/t-z8aXHMpgI2gjN_rIflKA.ttf"
+    "regular": "http://fonts.gstatic.com/s/anaheim/v3/t-z8aXHMpgI2gjN_rIflKA.ttf"
    }
   },
   {
@@ -694,9 +694,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -714,10 +714,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/angkor/v6/DLpLgIS-8F10ecwKqCm95Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/angkor/v7/DLpLgIS-8F10ecwKqCm95Q.ttf"
    }
   },
   {
@@ -730,10 +730,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/annieuseyourtelescope/v4/2cuiO5VmaR09C8SLGEQjGqbp7mtG8sPlcZvOaO8HBak.ttf"
+    "regular": "http://fonts.gstatic.com/s/annieuseyourtelescope/v5/2cuiO5VmaR09C8SLGEQjGqbp7mtG8sPlcZvOaO8HBak.ttf"
    }
   },
   {
@@ -747,15 +747,15 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v4",
-   "lastModified": "2014-03-18",
+   "lastModified": "2014-06-16",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/anonymouspro/v4/Zhfjj_gat3waL4JSju74E-V_5zh5b-_HiooIRUBwn1A.ttf",
     "italic": "http://themes.googleusercontent.com/static/fonts/anonymouspro/v4/q0u6LFHwttnT_69euiDbWKwIsuKDCXG0NQm7BvAgx-c.ttf",
@@ -773,10 +773,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/antic/v5/hEa8XCNM7tXGzD0Uk0AipA.ttf"
+    "regular": "http://fonts.gstatic.com/s/antic/v6/hEa8XCNM7tXGzD0Uk0AipA.ttf"
    }
   },
   {
@@ -789,10 +789,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/anticdidone/v2/r3nJcTDuOluOL6LGDV1vRy3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/anticdidone/v3/r3nJcTDuOluOL6LGDV1vRy3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -947,16 +947,16 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
-   "lastModified": "2014-01-07",
+   "lastModified": "2014-06-17",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/arimo/v6/Gpeo80g-5ji2CcyXWnzh7g.ttf",
     "italic": "http://themes.googleusercontent.com/static/fonts/arimo/v6/_OdGbnX2-qQ96C4OjhyuPw.ttf",
@@ -975,10 +975,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/arizonia/v4/yzJqkHZqryZBTM7RKYV9Wg.ttf"
+    "regular": "http://fonts.gstatic.com/s/arizonia/v5/yzJqkHZqryZBTM7RKYV9Wg.ttf"
    }
   },
   {
@@ -1008,10 +1008,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/artifika/v4/Ekfp4H4QG7D-WsABDOyj8g.ttf"
+    "regular": "http://fonts.gstatic.com/s/artifika/v5/Ekfp4H4QG7D-WsABDOyj8g.ttf"
    }
   },
   {
@@ -1069,10 +1069,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/asset/v4/hfPmqY-JzuR1lULlQf9iTg.ttf"
+    "regular": "http://fonts.gstatic.com/s/asset/v5/hfPmqY-JzuR1lULlQf9iTg.ttf"
    }
   },
   {
@@ -1086,11 +1086,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/astloch/v4/fmbitVmHYLQP7MGPuFgpag.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/astloch/v4/aPkhM2tL-tz1jX6aX2rvo_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/astloch/v5/fmbitVmHYLQP7MGPuFgpag.ttf",
+    "700": "http://fonts.gstatic.com/s/astloch/v5/aPkhM2tL-tz1jX6aX2rvo_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1104,11 +1104,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/asul/v3/9qpsNR_OOwyOYyo2N0IbBw.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/asul/v3/uO8uNmxaq87-DdPmkEg5Gg.ttf"
+    "regular": "http://fonts.gstatic.com/s/asul/v4/9qpsNR_OOwyOYyo2N0IbBw.ttf",
+    "700": "http://fonts.gstatic.com/s/asul/v4/uO8uNmxaq87-DdPmkEg5Gg.ttf"
    }
   },
   {
@@ -1121,10 +1121,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/atomicage/v4/WvBMe4FxANIKpo6Oi0mVJ_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/atomicage/v5/WvBMe4FxANIKpo6Oi0mVJ_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1137,10 +1137,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/aubrey/v6/zo9w8klO8bmOQIMajQ2aTA.ttf"
+    "regular": "http://fonts.gstatic.com/s/aubrey/v7/zo9w8klO8bmOQIMajQ2aTA.ttf"
    }
   },
   {
@@ -1171,10 +1171,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/autourone/v2/2xmQBcg7FN72jaQRFZPIDvesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/autourone/v3/2xmQBcg7FN72jaQRFZPIDvesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1188,10 +1188,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/average/v2/aHUibBqdDbVYl5FM48pxyQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/average/v3/aHUibBqdDbVYl5FM48pxyQ.ttf"
    }
   },
   {
@@ -1243,15 +1243,15 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/r6hGL8sSLm4dTzOPXgx5XacQoVhARpoaILP7amxE_8g.ttf",
-    "300italic": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/I6wAYuAvOgT7el2ePj2nkina0FLWfcB-J_SAYmcAXaI.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/rYVgHZZQICWnhjguGsBspC3USBnSvpkopQaUR-2r7iU.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/1etzuoNxVHR8F533EkD1WfMZXuCXbOrAvx5R0IT5Oyo.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/r6hGL8sSLm4dTzOPXgx5XUD2ttfZwueP-QU272T9-k4.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/averialibre/v2/I6wAYuAvOgT7el2ePj2nkvAs9-1nE9qOqhChW0m4nDE.ttf"
+    "300": "http://fonts.gstatic.com/s/averialibre/v3/r6hGL8sSLm4dTzOPXgx5XacQoVhARpoaILP7amxE_8g.ttf",
+    "300italic": "http://fonts.gstatic.com/s/averialibre/v3/I6wAYuAvOgT7el2ePj2nkina0FLWfcB-J_SAYmcAXaI.ttf",
+    "regular": "http://fonts.gstatic.com/s/averialibre/v3/rYVgHZZQICWnhjguGsBspC3USBnSvpkopQaUR-2r7iU.ttf",
+    "italic": "http://fonts.gstatic.com/s/averialibre/v3/1etzuoNxVHR8F533EkD1WfMZXuCXbOrAvx5R0IT5Oyo.ttf",
+    "700": "http://fonts.gstatic.com/s/averialibre/v3/r6hGL8sSLm4dTzOPXgx5XUD2ttfZwueP-QU272T9-k4.ttf",
+    "700italic": "http://fonts.gstatic.com/s/averialibre/v3/I6wAYuAvOgT7el2ePj2nkvAs9-1nE9qOqhChW0m4nDE.ttf"
    }
   },
   {
@@ -1269,15 +1269,15 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/_9-jTfQjaBsWAF_yp5z-V4CP_KG_g80s1KXiBtJHoNc.ttf",
-    "300italic": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/o7BEIK-fG3Ykc5Rzteh88YuyGu4JqttndUh4gRKxic0.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/yRJpjT39KxACO9F31mj_LqV8_KRn4epKAjTFK1s1fsg.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/COEzR_NPBSUOl3pFwPbPoCZU2HnUZT1xVKaIrHDioao.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/_9-jTfQjaBsWAF_yp5z-V8QwVOrz1y5GihpZmtKLhlI.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/averiasanslibre/v2/o7BEIK-fG3Ykc5Rzteh88bXy1DXgmJcVtKjM5UWamMs.ttf"
+    "300": "http://fonts.gstatic.com/s/averiasanslibre/v3/_9-jTfQjaBsWAF_yp5z-V4CP_KG_g80s1KXiBtJHoNc.ttf",
+    "300italic": "http://fonts.gstatic.com/s/averiasanslibre/v3/o7BEIK-fG3Ykc5Rzteh88YuyGu4JqttndUh4gRKxic0.ttf",
+    "regular": "http://fonts.gstatic.com/s/averiasanslibre/v3/yRJpjT39KxACO9F31mj_LqV8_KRn4epKAjTFK1s1fsg.ttf",
+    "italic": "http://fonts.gstatic.com/s/averiasanslibre/v3/COEzR_NPBSUOl3pFwPbPoCZU2HnUZT1xVKaIrHDioao.ttf",
+    "700": "http://fonts.gstatic.com/s/averiasanslibre/v3/_9-jTfQjaBsWAF_yp5z-V8QwVOrz1y5GihpZmtKLhlI.ttf",
+    "700italic": "http://fonts.gstatic.com/s/averiasanslibre/v3/o7BEIK-fG3Ykc5Rzteh88bXy1DXgmJcVtKjM5UWamMs.ttf"
    }
   },
   {
@@ -1295,15 +1295,15 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/yvITAdr5D1nlsdFswJAb8SmC4gFJ2PHmfdVKEd_5S9M.ttf",
-    "300italic": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/YOLFXyye4sZt6AZk1QybCG2okl0bU63CauowU4iApig.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/fdtF30xa_Erw0zAzOoG4BZqY66i8AUyI16fGqw0iAew.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/o9qhvK9iT5iDWfyhQUe-6Ru_b0bTq5iipbJ9hhgHJ6U.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/yvITAdr5D1nlsdFswJAb8Q50KV5TaOVolur4zV2iZsg.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/averiaseriflibre/v3/YOLFXyye4sZt6AZk1QybCNxohRXP4tNDqG3X4Hqn21k.ttf"
+    "300": "http://fonts.gstatic.com/s/averiaseriflibre/v4/yvITAdr5D1nlsdFswJAb8SmC4gFJ2PHmfdVKEd_5S9M.ttf",
+    "300italic": "http://fonts.gstatic.com/s/averiaseriflibre/v4/YOLFXyye4sZt6AZk1QybCG2okl0bU63CauowU4iApig.ttf",
+    "regular": "http://fonts.gstatic.com/s/averiaseriflibre/v4/fdtF30xa_Erw0zAzOoG4BZqY66i8AUyI16fGqw0iAew.ttf",
+    "italic": "http://fonts.gstatic.com/s/averiaseriflibre/v4/o9qhvK9iT5iDWfyhQUe-6Ru_b0bTq5iipbJ9hhgHJ6U.ttf",
+    "700": "http://fonts.gstatic.com/s/averiaseriflibre/v4/yvITAdr5D1nlsdFswJAb8Q50KV5TaOVolur4zV2iZsg.ttf",
+    "700italic": "http://fonts.gstatic.com/s/averiaseriflibre/v4/YOLFXyye4sZt6AZk1QybCNxohRXP4tNDqG3X4Hqn21k.ttf"
    }
   },
   {
@@ -1333,10 +1333,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/balthazar/v3/WgbaSIs6dJAGXJ0qbz2xlw.ttf"
+    "regular": "http://fonts.gstatic.com/s/balthazar/v4/WgbaSIs6dJAGXJ0qbz2xlw.ttf"
    }
   },
   {
@@ -1383,11 +1383,11 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/battambang/v7/MzrUfQLefYum5vVGM3EZVPesZW2xOQ-xsNqO47m55DA.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/battambang/v7/dezbRtMzfzAA99DmrCYRMgJKKGfqHaYFsRG-T3ceEVo.ttf"
+    "regular": "http://fonts.gstatic.com/s/battambang/v8/MzrUfQLefYum5vVGM3EZVPesZW2xOQ-xsNqO47m55DA.ttf",
+    "700": "http://fonts.gstatic.com/s/battambang/v8/dezbRtMzfzAA99DmrCYRMgJKKGfqHaYFsRG-T3ceEVo.ttf"
    }
   },
   {
@@ -1400,10 +1400,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/baumans/v3/o0bFdPW1H5kd5saqqOcoVg.ttf"
+    "regular": "http://fonts.gstatic.com/s/baumans/v4/o0bFdPW1H5kd5saqqOcoVg.ttf"
    }
   },
   {
@@ -1536,10 +1536,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bigelowrules/v2/FEJCPLwo07FS-6SK6Al50X8f0n03UdmQgF_CLvNR2vg.ttf"
+    "regular": "http://fonts.gstatic.com/s/bigelowrules/v3/FEJCPLwo07FS-6SK6Al50X8f0n03UdmQgF_CLvNR2vg.ttf"
    }
   },
   {
@@ -1552,10 +1552,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bigshotone/v4/wSyZjBNTWDQHnvWE2jt6j6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/bigshotone/v5/wSyZjBNTWDQHnvWE2jt6j6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -1569,10 +1569,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bilbo/v4/-ty-lPs5H7OIucWbnpFrkA.ttf"
+    "regular": "http://fonts.gstatic.com/s/bilbo/v5/-ty-lPs5H7OIucWbnpFrkA.ttf"
    }
   },
   {
@@ -1586,10 +1586,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bilboswashcaps/v5/UB_-crLvhx-PwGKW1oosDmYeFSdnSpRYv5h9gpdlD1g.ttf"
+    "regular": "http://fonts.gstatic.com/s/bilboswashcaps/v6/UB_-crLvhx-PwGKW1oosDmYeFSdnSpRYv5h9gpdlD1g.ttf"
    }
   },
   {
@@ -1640,10 +1640,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bokor/v6/uAKdo0A85WW23Gs6mcbw7A.ttf"
+    "regular": "http://fonts.gstatic.com/s/bokor/v7/uAKdo0A85WW23Gs6mcbw7A.ttf"
    }
   },
   {
@@ -1688,10 +1688,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bowlbyone/v5/eKpHjHfjoxM2bX36YNucefesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/bowlbyone/v6/eKpHjHfjoxM2bX36YNucefesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1705,10 +1705,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bowlbyonesc/v6/8ZkeXftTuzKBtmxOYXoRedDkZCMxWJecxjvKm2f8MJw.ttf"
+    "regular": "http://fonts.gstatic.com/s/bowlbyonesc/v7/8ZkeXftTuzKBtmxOYXoRedDkZCMxWJecxjvKm2f8MJw.ttf"
    }
   },
   {
@@ -1755,10 +1755,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/bubblegumsans/v3/Y9iTUUNz6lbl6TrvV4iwsytnKWgpfO2iSkLzTz-AABg.ttf"
+    "regular": "http://fonts.gstatic.com/s/bubblegumsans/v4/Y9iTUUNz6lbl6TrvV4iwsytnKWgpfO2iSkLzTz-AABg.ttf"
    }
   },
   {
@@ -1788,10 +1788,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/buda/v4/hLtAmNUmEMJH2yx7NGUjnA.ttf"
+    "300": "http://fonts.gstatic.com/s/buda/v5/hLtAmNUmEMJH2yx7NGUjnA.ttf"
    }
   },
   {
@@ -1806,11 +1806,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/buenard/v4/NSpMPGKAUgrLrlstYVvIXQ.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/buenard/v4/yUlGE115dGr7O9w9FlP3UvesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/buenard/v5/NSpMPGKAUgrLrlstYVvIXQ.ttf",
+    "700": "http://fonts.gstatic.com/s/buenard/v5/yUlGE115dGr7O9w9FlP3UvesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1927,10 +1927,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/caesardressing/v3/2T_WzBgE2Xz3FsyJMq34T9gR43u4FvCuJwIfF5Zxl6Y.ttf"
+    "regular": "http://fonts.gstatic.com/s/caesardressing/v4/2T_WzBgE2Xz3FsyJMq34T9gR43u4FvCuJwIfF5Zxl6Y.ttf"
    }
   },
   {
@@ -1943,10 +1943,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cagliostro/v3/i85oXbtdSatNEzss99bpj_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/cagliostro/v4/i85oXbtdSatNEzss99bpj_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -1975,10 +1975,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cambo/v3/PnwpRuTdkYCf8qk4ajmNRA.ttf"
+    "regular": "http://fonts.gstatic.com/s/cambo/v4/PnwpRuTdkYCf8qk4ajmNRA.ttf"
    }
   },
   {
@@ -2047,10 +2047,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cantoraone/v3/oI-DS62RbHI8ZREjp73ehqCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/cantoraone/v4/oI-DS62RbHI8ZREjp73ehqCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -2064,10 +2064,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/capriola/v2/JxXPlkdzWwF9Cwelbvi9jA.ttf"
+    "regular": "http://fonts.gstatic.com/s/capriola/v3/JxXPlkdzWwF9Cwelbvi9jA.ttf"
    }
   },
   {
@@ -2080,10 +2080,10 @@
     "700"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -2168,10 +2168,10 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -2192,10 +2192,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cedarvillecursive/v4/cuCe6HrkcqrWTWTUE7dw-41zwq9-z_Lf44CzRAA0d0Y.ttf"
+    "regular": "http://fonts.gstatic.com/s/cedarvillecursive/v5/cuCe6HrkcqrWTWTUE7dw-41zwq9-z_Lf44CzRAA0d0Y.ttf"
    }
   },
   {
@@ -2208,10 +2208,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cevicheone/v4/WOaXIMBD4VYMy39MsobJhKCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/cevicheone/v5/WOaXIMBD4VYMy39MsobJhKCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -2243,10 +2243,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/chango/v3/3W3AeMMtRTH08t5qLOjBmg.ttf"
+    "regular": "http://fonts.gstatic.com/s/chango/v4/3W3AeMMtRTH08t5qLOjBmg.ttf"
    }
   },
   {
@@ -2279,10 +2279,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/chelaone/v2/h5O0dEnpnIq6jQnWxZybrA.ttf"
+    "regular": "http://fonts.gstatic.com/s/chelaone/v3/h5O0dEnpnIq6jQnWxZybrA.ttf"
    }
   },
   {
@@ -2296,10 +2296,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/chelseamarket/v2/qSdzwh2A4BbNemy78sJLfAAI1i8fIftCBXsBF2v9UMI.ttf"
+    "regular": "http://fonts.gstatic.com/s/chelseamarket/v3/qSdzwh2A4BbNemy78sJLfAAI1i8fIftCBXsBF2v9UMI.ttf"
    }
   },
   {
@@ -2346,11 +2346,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cherryswash/v2/HqOk7C7J1TZ5i3L-ejF0vi3USBnSvpkopQaUR-2r7iU.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/cherryswash/v2/-CfyMyQqfucZPQNB0nvYyED2ttfZwueP-QU272T9-k4.ttf"
+    "regular": "http://fonts.gstatic.com/s/cherryswash/v3/HqOk7C7J1TZ5i3L-ejF0vi3USBnSvpkopQaUR-2r7iU.ttf",
+    "700": "http://fonts.gstatic.com/s/cherryswash/v3/-CfyMyQqfucZPQNB0nvYyED2ttfZwueP-QU272T9-k4.ttf"
    }
   },
   {
@@ -2380,10 +2380,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/chicle/v3/xg4q57Ut9ZmyFwLp51JLgg.ttf"
+    "regular": "http://fonts.gstatic.com/s/chicle/v4/xg4q57Ut9ZmyFwLp51JLgg.ttf"
    }
   },
   {
@@ -2440,12 +2440,12 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cinzeldecorative/v2/fmgK7oaJJIXAkhd9798yQgT5USbJx2F82lQbogPy2bY.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/cinzeldecorative/v2/pXhIVnhFtL_B9Vb1wq2F95-YYVDmZkJErg0zgx9XuZI.ttf",
-    "900": "http://themes.googleusercontent.com/static/fonts/cinzeldecorative/v2/pXhIVnhFtL_B9Vb1wq2F97Khqbv0zQZa0g-9HOXAalU.ttf"
+    "regular": "http://fonts.gstatic.com/s/cinzeldecorative/v3/fmgK7oaJJIXAkhd9798yQgT5USbJx2F82lQbogPy2bY.ttf",
+    "700": "http://fonts.gstatic.com/s/cinzeldecorative/v3/pXhIVnhFtL_B9Vb1wq2F95-YYVDmZkJErg0zgx9XuZI.ttf",
+    "900": "http://fonts.gstatic.com/s/cinzeldecorative/v3/pXhIVnhFtL_B9Vb1wq2F97Khqbv0zQZa0g-9HOXAalU.ttf"
    }
   },
   {
@@ -2459,10 +2459,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/clickerscript/v2/Zupmk8XwADjufGxWB9KThBnpV0hQCek3EmWnCPrvGRM.ttf"
+    "regular": "http://fonts.gstatic.com/s/clickerscript/v3/Zupmk8XwADjufGxWB9KThBnpV0hQCek3EmWnCPrvGRM.ttf"
    }
   },
   {
@@ -2546,10 +2546,10 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -2586,10 +2586,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/concertone/v5/N5IWCIGhUNdPZn_efTxKN6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/concertone/v6/N5IWCIGhUNdPZn_efTxKN6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -2603,10 +2603,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/condiment/v2/CstmdiPpgFSV0FUNL5LrJA.ttf"
+    "regular": "http://fonts.gstatic.com/s/condiment/v3/CstmdiPpgFSV0FUNL5LrJA.ttf"
    }
   },
   {
@@ -2620,11 +2620,11 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/content/v6/l8qaLjygvOkDEU2G6-cjfQ.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/content/v6/7PivP8Zvs2qn6F6aNbSQe_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/content/v7/l8qaLjygvOkDEU2G6-cjfQ.ttf",
+    "700": "http://fonts.gstatic.com/s/content/v7/7PivP8Zvs2qn6F6aNbSQe_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -2737,13 +2737,13 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v7",
    "lastModified": "2014-03-17",
@@ -2814,10 +2814,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/creepster/v3/0vdr5kWJ6aJlOg5JvxnXzQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/creepster/v4/0vdr5kWJ6aJlOg5JvxnXzQ.ttf"
    }
   },
   {
@@ -2876,10 +2876,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/croissantone/v2/mPjsOObnC77fp1cvZlOfIYjjx0o0jr6fNXxPgYh_a8Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/croissantone/v3/mPjsOObnC77fp1cvZlOfIYjjx0o0jr6fNXxPgYh_a8Q.ttf"
    }
   },
   {
@@ -2910,8 +2910,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -2950,10 +2950,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-03-18",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/cutivemono/v2/ncWQtFVKcSs8OW798v30k6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/cutivemono/v3/ncWQtFVKcSs8OW798v30k6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -3000,10 +3000,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/dangrek/v6/LOaFhBT-EHNxZjV8DAW_ew.ttf"
+    "regular": "http://fonts.gstatic.com/s/dangrek/v7/LOaFhBT-EHNxZjV8DAW_ew.ttf"
    }
   },
   {
@@ -3016,10 +3016,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/dawningofanewday/v5/JiDsRhiKZt8uz3NJ5xA06gXLnohmOYWQZqo_sW8GLTk.ttf"
+    "regular": "http://fonts.gstatic.com/s/dawningofanewday/v6/JiDsRhiKZt8uz3NJ5xA06gXLnohmOYWQZqo_sW8GLTk.ttf"
    }
   },
   {
@@ -3064,10 +3064,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/deliusswashcaps/v6/uXyrEUnoWApxIOICunRq7yIrxb5zDVgU2N3VzXm7zq4.ttf"
+    "regular": "http://fonts.gstatic.com/s/deliusswashcaps/v7/uXyrEUnoWApxIOICunRq7yIrxb5zDVgU2N3VzXm7zq4.ttf"
    }
   },
   {
@@ -3081,11 +3081,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/deliusunicase/v7/b2sKujV3Q48RV2PQ0k1vqu6rPKfVZo7L2bERcf0BDns.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/deliusunicase/v7/7FTMTITcb4dxUp99FAdTqNy5weKXdcrx-wE0cgECMq8.ttf"
+    "regular": "http://fonts.gstatic.com/s/deliusunicase/v8/b2sKujV3Q48RV2PQ0k1vqu6rPKfVZo7L2bERcf0BDns.ttf",
+    "700": "http://fonts.gstatic.com/s/deliusunicase/v8/7FTMTITcb4dxUp99FAdTqNy5weKXdcrx-wE0cgECMq8.ttf"
    }
   },
   {
@@ -3098,10 +3098,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/dellarespira/v2/F4E6Lo_IZ6L9AJCcbqtDVeDcg5akpSnIcsPhLOFv7l8.ttf"
+    "regular": "http://fonts.gstatic.com/s/dellarespira/v3/F4E6Lo_IZ6L9AJCcbqtDVeDcg5akpSnIcsPhLOFv7l8.ttf"
    }
   },
   {
@@ -3132,10 +3132,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/devonshire/v3/I3ct_2t12SYizP8ZC-KFi_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/devonshire/v4/I3ct_2t12SYizP8ZC-KFi_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -3146,12 +3146,12 @@
     "regular"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -3223,10 +3223,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/donegalone/v2/6kN4-fDxz7T9s5U61HwfF6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/donegalone/v3/6kN4-fDxz7T9s5U61HwfF6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -3256,10 +3256,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/dorsa/v5/wCc3cUe6XrmG2LQE6GlIrw.ttf"
+    "regular": "http://fonts.gstatic.com/s/dorsa/v6/wCc3cUe6XrmG2LQE6GlIrw.ttf"
    }
   },
   {
@@ -3376,7 +3376,7 @@
     "latin-ext"
    ],
    "version": "v5",
-   "lastModified": "2014-05-19",
+   "lastModified": "2014-06-18",
    "files": {
     "regular": "http://fonts.gstatic.com/s/durusans/v5/R1xHvAOARPh8_so9_UKw1w.ttf"
    }
@@ -3392,10 +3392,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/dynalight/v3/-CWsIe8OUDWTIHjSAh41kA.ttf"
+    "regular": "http://fonts.gstatic.com/s/dynalight/v4/-CWsIe8OUDWTIHjSAh41kA.ttf"
    }
   },
   {
@@ -3407,10 +3407,10 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
     "vietnamese",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -3429,10 +3429,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/eaglelake/v2/ZKlYin7caemhx9eSg6RvPfesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/eaglelake/v3/ZKlYin7caemhx9eSg6RvPfesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -3446,10 +3446,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/eater/v3/gm6f3OmYEdbs3lPQtUfBkA.ttf"
+    "regular": "http://fonts.gstatic.com/s/eater/v4/gm6f3OmYEdbs3lPQtUfBkA.ttf"
    }
   },
   {
@@ -3490,19 +3490,19 @@
    ],
    "subsets": [
     "latin",
-    "devanagari",
-    "latin-ext"
+    "latin-ext",
+    "devanagari"
    ],
-   "version": "v1",
-   "lastModified": "2014-05-21",
+   "version": "v2",
+   "lastModified": "2014-06-19",
    "files": {
-    "200": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/crtkNHh5JcM3VJKG0E-B36CWcynf_cDxXwCLxiixG1c.ttf",
-    "300": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/mpaAv7CIyk0VnZlqSneVxKCWcynf_cDxXwCLxiixG1c.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/aFcjXdC5jyJ1p8w54wIIrg.ttf",
-    "500": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/PZ1y2MstFczWvBlFSgzMyaCWcynf_cDxXwCLxiixG1c.ttf",
-    "600": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/Z5Mfzeu6M3emakcJO2QeTqCWcynf_cDxXwCLxiixG1c.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/4ugcOGR28Jn-oBIn0-qLYaCWcynf_cDxXwCLxiixG1c.ttf",
-    "800": "http://themes.googleusercontent.com/static/fonts/ekmukta/v1/O68TH5OjEhVmn9_gIrcfS6CWcynf_cDxXwCLxiixG1c.ttf"
+    "200": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/crtkNHh5JcM3VJKG0E-B36CWcynf_cDxXwCLxiixG1c.ttf",
+    "300": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/mpaAv7CIyk0VnZlqSneVxKCWcynf_cDxXwCLxiixG1c.ttf",
+    "regular": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/aFcjXdC5jyJ1p8w54wIIrg.ttf",
+    "500": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/PZ1y2MstFczWvBlFSgzMyaCWcynf_cDxXwCLxiixG1c.ttf",
+    "600": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/Z5Mfzeu6M3emakcJO2QeTqCWcynf_cDxXwCLxiixG1c.ttf",
+    "700": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/4ugcOGR28Jn-oBIn0-qLYaCWcynf_cDxXwCLxiixG1c.ttf",
+    "800": "http://themes.googleusercontent.com/static/fonts/ekmukta/v2/O68TH5OjEhVmn9_gIrcfS6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -3534,7 +3534,7 @@
     "latin-ext"
    ],
    "version": "v2",
-   "lastModified": "2014-01-07",
+   "lastModified": "2014-06-18",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/elsie/v2/gwspePauE45BJu6Ok1QrfQ.ttf",
     "900": "http://themes.googleusercontent.com/static/fonts/elsie/v2/1t-9f0N2NFYwAgN7oaISqg.ttf"
@@ -3552,11 +3552,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/elsieswashcaps/v2/9L3hIJMPCf6sxCltnxd6X2YeFSdnSpRYv5h9gpdlD1g.ttf",
-    "900": "http://themes.googleusercontent.com/static/fonts/elsieswashcaps/v2/iZnus9qif0tR5pGaDv5zdKoKBWBozTtxi30NfZDOXXU.ttf"
+    "regular": "http://fonts.gstatic.com/s/elsieswashcaps/v3/9L3hIJMPCf6sxCltnxd6X2YeFSdnSpRYv5h9gpdlD1g.ttf",
+    "900": "http://fonts.gstatic.com/s/elsieswashcaps/v3/iZnus9qif0tR5pGaDv5zdKoKBWBozTtxi30NfZDOXXU.ttf"
    }
   },
   {
@@ -3570,10 +3570,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/emblemaone/v3/7IlBUjBWPIiw7cr_O2IfSaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/emblemaone/v4/7IlBUjBWPIiw7cr_O2IfSaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -3587,10 +3587,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/emilyscandy/v2/PofLVm6v1SwZGOzC8s-I3S3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/emilyscandy/v3/PofLVm6v1SwZGOzC8s-I3S3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -3603,10 +3603,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/engagement/v3/4Uz0Jii7oVPcaFRYmbpU6vesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/engagement/v4/4Uz0Jii7oVPcaFRYmbpU6vesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -3672,10 +3672,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/esteban/v2/ESyhLgqDDyK5JcFPp2svDw.ttf"
+    "regular": "http://fonts.gstatic.com/s/esteban/v3/ESyhLgqDDyK5JcFPp2svDw.ttf"
    }
   },
   {
@@ -3689,10 +3689,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/euphoriascript/v2/c4XB4Iijj_NvSsCF4I0O2MxLhO8OSNnfAp53LK1_iRs.ttf"
+    "regular": "http://fonts.gstatic.com/s/euphoriascript/v3/c4XB4Iijj_NvSsCF4I0O2MxLhO8OSNnfAp53LK1_iRs.ttf"
    }
   },
   {
@@ -3789,8 +3789,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v1",
    "lastModified": "2013-12-05",
@@ -3832,17 +3832,17 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/gegTSDBDs5le3g6uxU1ZsX8f0n03UdmQgF_CLvNR2vg.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/Y-erXmY0b6DU_i2Qu0hTJj4G9C9ttb0Oz5Cvf0qOitE.ttf",
-    "500": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/cl6rhMY77Ilk8lB_uYRRwAqQmZ7VjhwksfpNVG0pqGc.ttf",
-    "500italic": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/sRBNtc46w65uJE451UYmW87DCVO6wo6i5LKIyZDzK40.ttf",
-    "600": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/cl6rhMY77Ilk8lB_uYRRwCvj1tU7IJMS3CS9kCx2B3U.ttf",
-    "600italic": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/sRBNtc46w65uJE451UYmW8yKH23ZS6zCKOFHG0e_4JE.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/cl6rhMY77Ilk8lB_uYRRwFCbmAUID8LN-q3pJpOk3Ys.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/expletussans/v5/sRBNtc46w65uJE451UYmW5F66r9C4AnxxlBlGd7xY4g.ttf"
+    "regular": "http://fonts.gstatic.com/s/expletussans/v6/gegTSDBDs5le3g6uxU1ZsX8f0n03UdmQgF_CLvNR2vg.ttf",
+    "italic": "http://fonts.gstatic.com/s/expletussans/v6/Y-erXmY0b6DU_i2Qu0hTJj4G9C9ttb0Oz5Cvf0qOitE.ttf",
+    "500": "http://fonts.gstatic.com/s/expletussans/v6/cl6rhMY77Ilk8lB_uYRRwAqQmZ7VjhwksfpNVG0pqGc.ttf",
+    "500italic": "http://fonts.gstatic.com/s/expletussans/v6/sRBNtc46w65uJE451UYmW87DCVO6wo6i5LKIyZDzK40.ttf",
+    "600": "http://fonts.gstatic.com/s/expletussans/v6/cl6rhMY77Ilk8lB_uYRRwCvj1tU7IJMS3CS9kCx2B3U.ttf",
+    "600italic": "http://fonts.gstatic.com/s/expletussans/v6/sRBNtc46w65uJE451UYmW8yKH23ZS6zCKOFHG0e_4JE.ttf",
+    "700": "http://fonts.gstatic.com/s/expletussans/v6/cl6rhMY77Ilk8lB_uYRRwFCbmAUID8LN-q3pJpOk3Ys.ttf",
+    "700italic": "http://fonts.gstatic.com/s/expletussans/v6/sRBNtc46w65uJE451UYmW5F66r9C4AnxxlBlGd7xY4g.ttf"
    }
   },
   {
@@ -3921,10 +3921,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v5",
-   "lastModified": "2014-06-04",
+   "version": "v6",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fasthand/v5/6XAagHH_KmpZL67wTvsETQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/fasthand/v6/6XAagHH_KmpZL67wTvsETQ.ttf"
    }
   },
   {
@@ -3954,10 +3954,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/federant/v5/tddZFSiGvxICNOGra0i5aA.ttf"
+    "regular": "http://fonts.gstatic.com/s/federant/v6/tddZFSiGvxICNOGra0i5aA.ttf"
    }
   },
   {
@@ -3970,10 +3970,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/federo/v6/JPhe1S2tujeyaR79gXBLeQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/federo/v7/JPhe1S2tujeyaR79gXBLeQ.ttf"
    }
   },
   {
@@ -4004,10 +4004,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fenix/v2/Ak8wR3VSlAN7VN_eMeJj7Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/fenix/v3/Ak8wR3VSlAN7VN_eMeJj7Q.ttf"
    }
   },
   {
@@ -4020,10 +4020,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fingerpaint/v2/m_ZRbiY-aPb13R3DWPBGXy3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/fingerpaint/v3/m_ZRbiY-aPb13R3DWPBGXy3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4036,11 +4036,11 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v1",
    "lastModified": "2014-06-02",
@@ -4065,23 +4065,22 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
-    "vietnamese",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
-   "version": "v1",
-   "lastModified": "2014-05-29",
+   "version": "v2",
+   "lastModified": "2014-06-19",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/firasans/v1/VTBnrK42EiOBncVyQXZ7jy3USBnSvpkopQaUR-2r7iU.ttf",
-    "300italic": "http://themes.googleusercontent.com/static/fonts/firasans/v1/6s0YCA9oCTF6hM60YM-qTS9-WlPSxbfiI49GsXo3q0g.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/firasans/v1/nsT0isDy56OkSX99sFQbXw.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/firasans/v1/cPT_2ddmoxsUuMtQqa8zGqCWcynf_cDxXwCLxiixG1c.ttf",
-    "500": "http://themes.googleusercontent.com/static/fonts/firasans/v1/zM2u8V3CuPVwAAXFQcDi4C3USBnSvpkopQaUR-2r7iU.ttf",
-    "500italic": "http://themes.googleusercontent.com/static/fonts/firasans/v1/6s0YCA9oCTF6hM60YM-qTcCNfqCYlB_eIx7H1TVXe60.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/firasans/v1/DugPdSljmOTocZOR2CItOi3USBnSvpkopQaUR-2r7iU.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/firasans/v1/6s0YCA9oCTF6hM60YM-qTXe1Pd76Vl7zRpE7NLJQ7XU.ttf"
+    "300": "http://themes.googleusercontent.com/static/fonts/firasans/v2/VTBnrK42EiOBncVyQXZ7jy3USBnSvpkopQaUR-2r7iU.ttf",
+    "300italic": "http://themes.googleusercontent.com/static/fonts/firasans/v2/6s0YCA9oCTF6hM60YM-qTS9-WlPSxbfiI49GsXo3q0g.ttf",
+    "regular": "http://themes.googleusercontent.com/static/fonts/firasans/v2/nsT0isDy56OkSX99sFQbXw.ttf",
+    "italic": "http://themes.googleusercontent.com/static/fonts/firasans/v2/cPT_2ddmoxsUuMtQqa8zGqCWcynf_cDxXwCLxiixG1c.ttf",
+    "500": "http://themes.googleusercontent.com/static/fonts/firasans/v2/zM2u8V3CuPVwAAXFQcDi4C3USBnSvpkopQaUR-2r7iU.ttf",
+    "500italic": "http://themes.googleusercontent.com/static/fonts/firasans/v2/6s0YCA9oCTF6hM60YM-qTcCNfqCYlB_eIx7H1TVXe60.ttf",
+    "700": "http://themes.googleusercontent.com/static/fonts/firasans/v2/DugPdSljmOTocZOR2CItOi3USBnSvpkopQaUR-2r7iU.ttf",
+    "700italic": "http://themes.googleusercontent.com/static/fonts/firasans/v2/6s0YCA9oCTF6hM60YM-qTXe1Pd76Vl7zRpE7NLJQ7XU.ttf"
    }
   },
   {
@@ -4111,10 +4110,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fjordone/v3/R_YHK8au2uFPw5tNu5N7zw.ttf"
+    "regular": "http://fonts.gstatic.com/s/fjordone/v4/R_YHK8au2uFPw5tNu5N7zw.ttf"
    }
   },
   {
@@ -4128,11 +4127,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/flamenco/v4/x9iI5CogvuZVCGoRHwXuo6CWcynf_cDxXwCLxiixG1c.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/flamenco/v4/HC0ugfLLgt26I5_BWD1PZA.ttf"
+    "300": "http://fonts.gstatic.com/s/flamenco/v5/x9iI5CogvuZVCGoRHwXuo6CWcynf_cDxXwCLxiixG1c.ttf",
+    "regular": "http://fonts.gstatic.com/s/flamenco/v5/HC0ugfLLgt26I5_BWD1PZA.ttf"
    }
   },
   {
@@ -4163,11 +4162,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fondamento/v3/6LWXcjT1B7bnWluAOSNfMPesZW2xOQ-xsNqO47m55DA.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/fondamento/v3/y6TmwhSbZ8rYq7OTFyo7OS3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/fondamento/v4/6LWXcjT1B7bnWluAOSNfMPesZW2xOQ-xsNqO47m55DA.ttf",
+    "italic": "http://fonts.gstatic.com/s/fondamento/v4/y6TmwhSbZ8rYq7OTFyo7OS3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4195,9 +4194,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -4233,10 +4232,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/freckleface/v2/7-B8j9BPJgazdHIGqPNv8y3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/freckleface/v3/7-B8j9BPJgazdHIGqPNv8y3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4281,10 +4280,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/freehand/v6/uEBQxvA0lnn_BrD6krlxMw.ttf"
+    "regular": "http://fonts.gstatic.com/s/freehand/v7/uEBQxvA0lnn_BrD6krlxMw.ttf"
    }
   },
   {
@@ -4298,10 +4297,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/fresca/v3/2q7Qm9sCo1tWvVgSDVWNIw.ttf"
+    "regular": "http://fonts.gstatic.com/s/fresca/v4/2q7Qm9sCo1tWvVgSDVWNIw.ttf"
    }
   },
   {
@@ -4314,10 +4313,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/frijole/v3/L2MfZse-2gCascuD-nLhWg.ttf"
+    "regular": "http://fonts.gstatic.com/s/frijole/v4/L2MfZse-2gCascuD-nLhWg.ttf"
    }
   },
   {
@@ -4363,10 +4362,10 @@
    "subsets": [
     "greek"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gfsdidot/v4/jQKxZy2RU-h9tkPZcRVluA.ttf"
+    "regular": "http://fonts.gstatic.com/s/gfsdidot/v5/jQKxZy2RU-h9tkPZcRVluA.ttf"
    }
   },
   {
@@ -4382,13 +4381,13 @@
    "subsets": [
     "greek"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gfsneohellenic/v5/B4xRqbn-tANVqVgamMsSDiayCZa0z7CpFzlkqoCHztc.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/gfsneohellenic/v5/KnaWrO4awITAqigQIIYXKkCTdomiyJpIzPbEbIES3rU.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/gfsneohellenic/v5/7HwjPQa7qNiOsnUce2h4448_BwCLZY3eDSV6kppAwI8.ttf",
-    "700italic": "http://themes.googleusercontent.com/static/fonts/gfsneohellenic/v5/FwWjoX6XqT-szJFyqsu_GYFF0fM4h-krcpQk7emtCpE.ttf"
+    "regular": "http://fonts.gstatic.com/s/gfsneohellenic/v6/B4xRqbn-tANVqVgamMsSDiayCZa0z7CpFzlkqoCHztc.ttf",
+    "italic": "http://fonts.gstatic.com/s/gfsneohellenic/v6/KnaWrO4awITAqigQIIYXKkCTdomiyJpIzPbEbIES3rU.ttf",
+    "700": "http://fonts.gstatic.com/s/gfsneohellenic/v6/7HwjPQa7qNiOsnUce2h4448_BwCLZY3eDSV6kppAwI8.ttf",
+    "700italic": "http://fonts.gstatic.com/s/gfsneohellenic/v6/FwWjoX6XqT-szJFyqsu_GYFF0fM4h-krcpQk7emtCpE.ttf"
    }
   },
   {
@@ -4402,10 +4401,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gabriela/v2/B-2ZfbAO3HDrxqV6lR5tdA.ttf"
+    "regular": "http://fonts.gstatic.com/s/gabriela/v3/B-2ZfbAO3HDrxqV6lR5tdA.ttf"
    }
   },
   {
@@ -4419,10 +4418,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gafata/v3/aTFqlki_3Dc3geo-FxHTvQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/gafata/v4/aTFqlki_3Dc3geo-FxHTvQ.ttf"
    }
   },
   {
@@ -4435,10 +4434,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/galdeano/v4/ZKFMQI6HxEG1jOT0UGSZUg.ttf"
+    "regular": "http://fonts.gstatic.com/s/galdeano/v5/ZKFMQI6HxEG1jOT0UGSZUg.ttf"
    }
   },
   {
@@ -4452,10 +4451,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/galindo/v2/2lafAS_ZEfB33OJryhXDUg.ttf"
+    "regular": "http://fonts.gstatic.com/s/galindo/v3/2lafAS_ZEfB33OJryhXDUg.ttf"
    }
   },
   {
@@ -4515,11 +4514,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/geo/v6/mJuJYk5Pww84B4uHAQ1XaA.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/geo/v6/8_r1wToF7nPdDuX1qxel6Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/geo/v7/mJuJYk5Pww84B4uHAQ1XaA.ttf",
+    "italic": "http://fonts.gstatic.com/s/geo/v7/8_r1wToF7nPdDuX1qxel6Q.ttf"
    }
   },
   {
@@ -4532,10 +4531,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/geostar/v4/A8WQbhQbpYx3GWWaShJ9GA.ttf"
+    "regular": "http://fonts.gstatic.com/s/geostar/v5/A8WQbhQbpYx3GWWaShJ9GA.ttf"
    }
   },
   {
@@ -4548,10 +4547,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/geostarfill/v4/Y5ovXPPOHYTfQzK2aM-hui3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/geostarfill/v5/Y5ovXPPOHYTfQzK2aM-hui3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4564,10 +4563,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/germaniaone/v2/3_6AyUql_-FbDi1e68jHdC3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/germaniaone/v3/3_6AyUql_-FbDi1e68jHdC3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4614,10 +4613,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/glassantiqua/v2/0yLrXKplgdUDIMz5TnCHNODcg5akpSnIcsPhLOFv7l8.ttf"
+    "regular": "http://fonts.gstatic.com/s/glassantiqua/v3/0yLrXKplgdUDIMz5TnCHNODcg5akpSnIcsPhLOFv7l8.ttf"
    }
   },
   {
@@ -4663,10 +4662,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/goblinone/v4/331XtzoXgpVEvNTVcBJ_C_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/goblinone/v5/331XtzoXgpVEvNTVcBJ_C_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -4696,11 +4695,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gorditas/v2/uMgZhXUyH6qNGF3QsjQT5Q.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/gorditas/v2/6-XCeknmxaon8AUqVkMnHaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/gorditas/v3/uMgZhXUyH6qNGF3QsjQT5Q.ttf",
+    "700": "http://fonts.gstatic.com/s/gorditas/v3/6-XCeknmxaon8AUqVkMnHaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -4729,10 +4728,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/graduate/v2/JpAmYLHqcIh9_Ff35HHwiA.ttf"
+    "regular": "http://fonts.gstatic.com/s/graduate/v3/JpAmYLHqcIh9_Ff35HHwiA.ttf"
    }
   },
   {
@@ -4746,10 +4745,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/grandhotel/v2/C_A8HiFZjXPpnMt38XnK7qCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/grandhotel/v3/C_A8HiFZjXPpnMt38XnK7qCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -4762,10 +4761,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/gravitasone/v4/nBHdBv6zVNU8MtP6w9FwTS3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/gravitasone/v5/nBHdBv6zVNU8MtP6w9FwTS3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4796,10 +4795,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/griffy/v2/vWkyYGBSyE5xjnShNtJtzw.ttf"
+    "regular": "http://fonts.gstatic.com/s/griffy/v3/vWkyYGBSyE5xjnShNtJtzw.ttf"
    }
   },
   {
@@ -4851,10 +4850,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/habibi/v3/YYyqXF6pWpL7kmKgS_2iUA.ttf"
+    "regular": "http://fonts.gstatic.com/s/habibi/v4/YYyqXF6pWpL7kmKgS_2iUA.ttf"
    }
   },
   {
@@ -4935,11 +4934,11 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/hanuman/v6/hRhwOGGmElJSl6KSPvEnOQ.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/hanuman/v6/lzzXZ2l84x88giDrbfq76vesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/hanuman/v7/hRhwOGGmElJSl6KSPvEnOQ.ttf",
+    "700": "http://fonts.gstatic.com/s/hanuman/v7/lzzXZ2l84x88giDrbfq76vesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -4953,10 +4952,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/happymonkey/v3/c2o0ps8nkBmaOYctqBq1rS3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/happymonkey/v4/c2o0ps8nkBmaOYctqBq1rS3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -4986,10 +4985,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/hennypenny/v2/XRgo3ogXyi3tpsFfjImRF6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/hennypenny/v3/XRgo3ogXyi3tpsFfjImRF6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -5019,10 +5018,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/holtwoodonesc/v5/sToOq3cIxbfnhbEkgYNuBbAgSRh1LpJXlLfl8IbsmHg.ttf"
+    "regular": "http://fonts.gstatic.com/s/holtwoodonesc/v6/sToOq3cIxbfnhbEkgYNuBbAgSRh1LpJXlLfl8IbsmHg.ttf"
    }
   },
   {
@@ -5086,10 +5085,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfelldwpicasc/v4/xBKKJV4z2KsrtQnmjGO17JZ9RBdEL0H9o5qzT1Rtof4.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfelldwpicasc/v5/xBKKJV4z2KsrtQnmjGO17JZ9RBdEL0H9o5qzT1Rtof4.ttf"
    }
   },
   {
@@ -5103,11 +5102,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfelldoublepica/v4/yN1wY_01BkQnO0LYAhXdUol14jEdVOhEmvtCMCVwYak.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/imfelldoublepica/v4/64odUh2hAw8D9dkFKTlWYq0AWwkgdQfsRHec8TYi4mI.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfelldoublepica/v5/yN1wY_01BkQnO0LYAhXdUol14jEdVOhEmvtCMCVwYak.ttf",
+    "italic": "http://fonts.gstatic.com/s/imfelldoublepica/v5/64odUh2hAw8D9dkFKTlWYq0AWwkgdQfsRHec8TYi4mI.ttf"
    }
   },
   {
@@ -5120,10 +5119,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfelldoublepicasc/v4/jkrUtrLFpMw4ZazhfkKsGwc4LoC4OJUqLw9omnT3VOU.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfelldoublepicasc/v5/jkrUtrLFpMw4ZazhfkKsGwc4LoC4OJUqLw9omnT3VOU.ttf"
    }
   },
   {
@@ -5154,10 +5153,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfellenglishsc/v4/h3Tn6yWfw4b5qaLD1RWvz5ATixNthKRRR1XVH3rJNiw.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfellenglishsc/v5/h3Tn6yWfw4b5qaLD1RWvz5ATixNthKRRR1XVH3rJNiw.ttf"
    }
   },
   {
@@ -5171,11 +5170,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfellfrenchcanon/v4/iKB0WL1BagSpNPz3NLMdsJ3V2FNpBrlLSvqUnERhBP8.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/imfellfrenchcanon/v4/owCuNQkLLFW7TBBPJbMnhRa-QL94KdW80H29tcyld2A.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfellfrenchcanon/v5/iKB0WL1BagSpNPz3NLMdsJ3V2FNpBrlLSvqUnERhBP8.ttf",
+    "italic": "http://fonts.gstatic.com/s/imfellfrenchcanon/v5/owCuNQkLLFW7TBBPJbMnhRa-QL94KdW80H29tcyld2A.ttf"
    }
   },
   {
@@ -5188,10 +5187,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfellfrenchcanonsc/v4/kA3bS19-tQbeT_iG32EZmaiyyzHwYrAbmNulTz423iM.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfellfrenchcanonsc/v5/kA3bS19-tQbeT_iG32EZmaiyyzHwYrAbmNulTz423iM.ttf"
    }
   },
   {
@@ -5205,11 +5204,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfellgreatprimer/v4/AL8ALGNthei20f9Cu3e93rgeX3ROgtTz44CitKAxzKI.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/imfellgreatprimer/v4/1a-artkXMVg682r7TTxVY1_YG2SFv8Ma7CxRl1S3o7g.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfellgreatprimer/v5/AL8ALGNthei20f9Cu3e93rgeX3ROgtTz44CitKAxzKI.ttf",
+    "italic": "http://fonts.gstatic.com/s/imfellgreatprimer/v5/1a-artkXMVg682r7TTxVY1_YG2SFv8Ma7CxRl1S3o7g.ttf"
    }
   },
   {
@@ -5222,10 +5221,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imfellgreatprimersc/v4/A313vRj97hMMGFjt6rgSJtRg-ciw1Y27JeXb2Zv4lZQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/imfellgreatprimersc/v5/A313vRj97hMMGFjt6rgSJtRg-ciw1Y27JeXb2Zv4lZQ.ttf"
    }
   },
   {
@@ -5238,10 +5237,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/iceberg/v2/p2XVm4M-N0AOEEOymFKC5w.ttf"
+    "regular": "http://fonts.gstatic.com/s/iceberg/v3/p2XVm4M-N0AOEEOymFKC5w.ttf"
    }
   },
   {
@@ -5271,10 +5270,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/imprima/v2/eRjquWLjwLGnTEhLH7u3kA.ttf"
+    "regular": "http://fonts.gstatic.com/s/imprima/v3/eRjquWLjwLGnTEhLH7u3kA.ttf"
    }
   },
   {
@@ -5341,11 +5340,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/inika/v2/eZCrULQGaIxkrRoGz_DjhQ.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/inika/v2/bl3ZoTyrWsFun2zYbsgJrA.ttf"
+    "regular": "http://fonts.gstatic.com/s/inika/v3/eZCrULQGaIxkrRoGz_DjhQ.ttf",
+    "700": "http://fonts.gstatic.com/s/inika/v3/bl3ZoTyrWsFun2zYbsgJrA.ttf"
    }
   },
   {
@@ -5358,10 +5357,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/irishgrover/v4/kUp7uUPooL-KsLGzeVJbBC3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/irishgrover/v5/kUp7uUPooL-KsLGzeVJbBC3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -5376,9 +5375,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -5399,10 +5398,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/italiana/v2/dt95fkCSTOF-c6QNjwSycA.ttf"
+    "regular": "http://fonts.gstatic.com/s/italiana/v3/dt95fkCSTOF-c6QNjwSycA.ttf"
    }
   },
   {
@@ -5416,10 +5415,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/italianno/v4/HsyHnLpKf8uP7aMpDQHZmg.ttf"
+    "regular": "http://fonts.gstatic.com/s/italianno/v5/HsyHnLpKf8uP7aMpDQHZmg.ttf"
    }
   },
   {
@@ -5432,10 +5431,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/jacquesfrancois/v2/_-0XWPQIW6tOzTHg4KaJ_M13D_4KM32Q4UmTSjpuNGQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/jacquesfrancois/v3/_-0XWPQIW6tOzTHg4KaJ_M13D_4KM32Q4UmTSjpuNGQ.ttf"
    }
   },
   {
@@ -5448,10 +5447,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/jacquesfrancoisshadow/v2/V14y0H3vq56fY9SV4OL_FASt0D_oLVawA8L8b9iKjbs.ttf"
+    "regular": "http://fonts.gstatic.com/s/jacquesfrancoisshadow/v3/V14y0H3vq56fY9SV4OL_FASt0D_oLVawA8L8b9iKjbs.ttf"
    }
   },
   {
@@ -5499,10 +5498,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/jollylodger/v2/RX8HnkBgaEKQSHQyP9itiS3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/jollylodger/v3/RX8HnkBgaEKQSHQyP9itiS3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -5584,10 +5583,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/jotione/v2/P3r_Th0ESHJdzunsvWgUfQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/jotione/v3/P3r_Th0ESHJdzunsvWgUfQ.ttf"
    }
   },
   {
@@ -5620,10 +5619,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/julee/v4/CAib-jsUsSO8SvVRnE9fHA.ttf"
+    "regular": "http://fonts.gstatic.com/s/julee/v5/CAib-jsUsSO8SvVRnE9fHA.ttf"
    }
   },
   {
@@ -5653,10 +5652,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/junge/v2/j4IXCXtxrw9qIBheercp3A.ttf"
+    "regular": "http://fonts.gstatic.com/s/junge/v3/j4IXCXtxrw9qIBheercp3A.ttf"
    }
   },
   {
@@ -5670,12 +5669,12 @@
     "600"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -5749,12 +5748,12 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v1",
-   "lastModified": "2013-12-05",
+   "version": "v2",
+   "lastModified": "2014-06-16",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/kantumruy/v1/ERRwQE0WG5uanaZWmOFXNi3USBnSvpkopQaUR-2r7iU.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/kantumruy/v1/kQfXNYElQxr5dS8FyjD39Q.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/kantumruy/v1/gie_zErpGf_rNzs920C2Ji3USBnSvpkopQaUR-2r7iU.ttf"
+    "300": "http://fonts.gstatic.com/s/kantumruy/v2/ERRwQE0WG5uanaZWmOFXNi3USBnSvpkopQaUR-2r7iU.ttf",
+    "regular": "http://fonts.gstatic.com/s/kantumruy/v2/kQfXNYElQxr5dS8FyjD39Q.ttf",
+    "700": "http://fonts.gstatic.com/s/kantumruy/v2/gie_zErpGf_rNzs920C2Ji3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -5824,10 +5823,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v1",
-   "lastModified": "2013-12-05",
+   "version": "v2",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/kdamthmor/v1/otCdP6UU-VBIrBfVDWBQJ_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/kdamthmor/v2/otCdP6UU-VBIrBfVDWBQJ_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -5841,10 +5840,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/keaniaone/v2/PACrDKZWngXzgo-ucl6buvesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/keaniaone/v3/PACrDKZWngXzgo-ucl6buvesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -5856,8 +5855,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -5875,10 +5874,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/kenia/v6/OLM9-XfITK9PsTLKbGBrwg.ttf"
+    "regular": "http://fonts.gstatic.com/s/kenia/v7/OLM9-XfITK9PsTLKbGBrwg.ttf"
    }
   },
   {
@@ -5891,10 +5890,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/khmer/v7/vWaBJIbaQuBNz02ALIKJ3A.ttf"
+    "regular": "http://fonts.gstatic.com/s/khmer/v8/vWaBJIbaQuBNz02ALIKJ3A.ttf"
    }
   },
   {
@@ -5907,10 +5906,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/kiteone/v2/8ojWmgUc97m0f_i6sTqLoQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/kiteone/v3/8ojWmgUc97m0f_i6sTqLoQ.ttf"
    }
   },
   {
@@ -5924,10 +5923,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/knewave/v3/KGHM4XWr4iKnBMqzZLkPBg.ttf"
+    "regular": "http://fonts.gstatic.com/s/knewave/v4/KGHM4XWr4iKnBMqzZLkPBg.ttf"
    }
   },
   {
@@ -5957,10 +5956,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v8",
-   "lastModified": "2014-06-04",
+   "version": "v9",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/koulen/v8/AAYOK8RSRO7FTskTzFuzNw.ttf"
+    "regular": "http://fonts.gstatic.com/s/koulen/v9/AAYOK8RSRO7FTskTzFuzNw.ttf"
    }
   },
   {
@@ -6026,10 +6025,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/kronaone/v2/zcQj4ljqTo166AdourlF9w.ttf"
+    "regular": "http://fonts.gstatic.com/s/kronaone/v3/zcQj4ljqTo166AdourlF9w.ttf"
    }
   },
   {
@@ -6058,10 +6057,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lancelot/v3/XMT7T_oo_MQUGAnU2v-sdA.ttf"
+    "regular": "http://fonts.gstatic.com/s/lancelot/v4/XMT7T_oo_MQUGAnU2v-sdA.ttf"
    }
   },
   {
@@ -6108,10 +6107,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/leaguescript/v5/wnRFLvfabWK_DauqppD6vSeUSrabuTpOsMEiRLtKwk0.ttf"
+    "regular": "http://fonts.gstatic.com/s/leaguescript/v6/wnRFLvfabWK_DauqppD6vSeUSrabuTpOsMEiRLtKwk0.ttf"
    }
   },
   {
@@ -6139,13 +6138,13 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ledger/v2/G432jp-tahOfWHbCYkI0jw.ttf"
+    "regular": "http://fonts.gstatic.com/s/ledger/v3/G432jp-tahOfWHbCYkI0jw.ttf"
    }
   },
   {
@@ -6218,11 +6217,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lifesavers/v4/g49cUDk4Y1P0G5NMkMAm7qCWcynf_cDxXwCLxiixG1c.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/lifesavers/v4/THQKqChyYUm97rNPVFdGGXe1Pd76Vl7zRpE7NLJQ7XU.ttf"
+    "regular": "http://fonts.gstatic.com/s/lifesavers/v5/g49cUDk4Y1P0G5NMkMAm7qCWcynf_cDxXwCLxiixG1c.ttf",
+    "700": "http://fonts.gstatic.com/s/lifesavers/v5/THQKqChyYUm97rNPVFdGGXe1Pd76Vl7zRpE7NLJQ7XU.ttf"
    }
   },
   {
@@ -6253,10 +6252,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lilyscriptone/v2/uPWsLVW8uiXqIBnE8ZwGPDjVlsJB_M_Q_LtZxsoxvlw.ttf"
+    "regular": "http://fonts.gstatic.com/s/lilyscriptone/v3/uPWsLVW8uiXqIBnE8ZwGPDjVlsJB_M_Q_LtZxsoxvlw.ttf"
    }
   },
   {
@@ -6287,11 +6286,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lindenhill/v4/UgsC0txqd-E1yjvjutwm_KCWcynf_cDxXwCLxiixG1c.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/lindenhill/v4/OcS3bZcu8vJvIDH8Zic83keOrDcLawS7-ssYqLr2Xp4.ttf"
+    "regular": "http://fonts.gstatic.com/s/lindenhill/v5/UgsC0txqd-E1yjvjutwm_KCWcynf_cDxXwCLxiixG1c.ttf",
+    "italic": "http://fonts.gstatic.com/s/lindenhill/v5/OcS3bZcu8vJvIDH8Zic83keOrDcLawS7-ssYqLr2Xp4.ttf"
    }
   },
   {
@@ -6303,14 +6302,14 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
-   "version": "v8",
-   "lastModified": "2014-03-20",
+   "version": "v9",
+   "lastModified": "2014-06-17",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lobster/v8/9LpJGtNuM1D8FAZ2BkJH2Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/lobster/v9/9LpJGtNuM1D8FAZ2BkJH2Q.ttf"
    }
   },
   {
@@ -6345,10 +6344,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/londrinaoutline/v3/lls08GOa1eT74p072l1AWJmp8DTZ6iHear7UV05iykg.ttf"
+    "regular": "http://fonts.gstatic.com/s/londrinaoutline/v4/lls08GOa1eT74p072l1AWJmp8DTZ6iHear7UV05iykg.ttf"
    }
   },
   {
@@ -6361,10 +6360,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/londrinashadow/v2/dNYuzPS_7eYgXFJBzMoKdbw6Z3rVA5KDSi7aQxS92Nk.ttf"
+    "regular": "http://fonts.gstatic.com/s/londrinashadow/v3/dNYuzPS_7eYgXFJBzMoKdbw6Z3rVA5KDSi7aQxS92Nk.ttf"
    }
   },
   {
@@ -6393,10 +6392,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/londrinasolid/v2/yysorIEiYSBb0ylZjg791MR125CwGqh8XBqkBzea0LA.ttf"
+    "regular": "http://fonts.gstatic.com/s/londrinasolid/v3/yysorIEiYSBb0ylZjg791MR125CwGqh8XBqkBzea0LA.ttf"
    }
   },
   {
@@ -6411,8 +6410,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v7",
    "lastModified": "2014-01-07",
@@ -6466,10 +6465,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/loversquarrel/v2/gipdZ8b7pKb89MzQLAtJHLHLxci2ElvNEmOB303HLk0.ttf"
+    "regular": "http://fonts.gstatic.com/s/loversquarrel/v3/gipdZ8b7pKb89MzQLAtJHLHLxci2ElvNEmOB303HLk0.ttf"
    }
   },
   {
@@ -6516,10 +6515,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/lustria/v2/gXAk0s4ai0X-TAOhYzZd1w.ttf"
+    "regular": "http://fonts.gstatic.com/s/lustria/v3/gXAk0s4ai0X-TAOhYzZd1w.ttf"
    }
   },
   {
@@ -6583,10 +6582,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/maidenorange/v4/ZhKIA2SPisEwdhW7g0RUWojjx0o0jr6fNXxPgYh_a8Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/maidenorange/v5/ZhKIA2SPisEwdhW7g0RUWojjx0o0jr6fNXxPgYh_a8Q.ttf"
    }
   },
   {
@@ -6616,10 +6615,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/marcellus/v2/UjiLZzumxWC9whJ86UtaYw.ttf"
+    "regular": "http://fonts.gstatic.com/s/marcellus/v3/UjiLZzumxWC9whJ86UtaYw.ttf"
    }
   },
   {
@@ -6648,8 +6647,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -6699,8 +6698,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -6741,11 +6740,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mate/v3/ooFviPcJ6hZP5bAE71Cawg.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/mate/v3/5XwW6_cbisGvCX5qmNiqfA.ttf"
+    "regular": "http://fonts.gstatic.com/s/mate/v4/ooFviPcJ6hZP5bAE71Cawg.ttf",
+    "italic": "http://fonts.gstatic.com/s/mate/v4/5XwW6_cbisGvCX5qmNiqfA.ttf"
    }
   },
   {
@@ -6758,10 +6757,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/matesc/v3/-YkIT2TZoPZF6pawKzDpWw.ttf"
+    "regular": "http://fonts.gstatic.com/s/matesc/v4/-YkIT2TZoPZF6pawKzDpWw.ttf"
    }
   },
   {
@@ -6797,10 +6796,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mclaren/v2/OprvTGxaiINBKW_1_U0eoQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/mclaren/v3/OprvTGxaiINBKW_1_U0eoQ.ttf"
    }
   },
   {
@@ -6813,10 +6812,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/meddon/v5/f8zJO98uu2EtSj9p7ci9RA.ttf"
+    "regular": "http://fonts.gstatic.com/s/meddon/v6/f8zJO98uu2EtSj9p7ci9RA.ttf"
    }
   },
   {
@@ -6830,10 +6829,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/medievalsharp/v6/85X_PjV6tftJ0-rX7KYQkOe45sJkivqprK7VkUlzfg0.ttf"
+    "regular": "http://fonts.gstatic.com/s/medievalsharp/v7/85X_PjV6tftJ0-rX7KYQkOe45sJkivqprK7VkUlzfg0.ttf"
    }
   },
   {
@@ -6846,10 +6845,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/medulaone/v4/AasPgDQak81dsTGQHc5zUPesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/medulaone/v5/AasPgDQak81dsTGQHc5zUPesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -6879,10 +6878,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/meiescript/v2/oTIWE5MmPye-rCyVp_6KEqCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/meiescript/v3/oTIWE5MmPye-rCyVp_6KEqCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -6992,10 +6991,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-06-04",
+   "version": "v8",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/metal/v7/zA3UOP13ooQcxjv04BZX5g.ttf"
+    "regular": "http://fonts.gstatic.com/s/metal/v8/zA3UOP13ooQcxjv04BZX5g.ttf"
    }
   },
   {
@@ -7075,10 +7074,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/milonga/v2/dzNdIUSTGFmy2ahovDRcWg.ttf"
+    "regular": "http://fonts.gstatic.com/s/milonga/v3/dzNdIUSTGFmy2ahovDRcWg.ttf"
    }
   },
   {
@@ -7091,10 +7090,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/miltonian/v6/Z4HrYZyqm0BnNNzcCUfzoQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/miltonian/v7/Z4HrYZyqm0BnNNzcCUfzoQ.ttf"
    }
   },
   {
@@ -7107,10 +7106,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/miltoniantattoo/v7/1oU_8OGYwW46eh02YHydn2uk0YtI6thZkz1Hmh-odwg.ttf"
+    "regular": "http://fonts.gstatic.com/s/miltoniantattoo/v8/1oU_8OGYwW46eh02YHydn2uk0YtI6thZkz1Hmh-odwg.ttf"
    }
   },
   {
@@ -7123,10 +7122,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/miniver/v3/4yTQohOH_cWKRS5laRFhYg.ttf"
+    "regular": "http://fonts.gstatic.com/s/miniver/v4/4yTQohOH_cWKRS5laRFhYg.ttf"
    }
   },
   {
@@ -7157,10 +7156,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/modernantiqua/v4/8qX_tr6Xzy4t9fvZDXPkh6rFJ4O13IHVxZbM6yoslpo.ttf"
+    "regular": "http://fonts.gstatic.com/s/modernantiqua/v5/8qX_tr6Xzy4t9fvZDXPkh6rFJ4O13IHVxZbM6yoslpo.ttf"
    }
   },
   {
@@ -7191,10 +7190,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "italic": "http://themes.googleusercontent.com/static/fonts/molle/v2/9XTdCsjPXifLqo5et-YoGA.ttf"
+    "italic": "http://fonts.gstatic.com/s/molle/v3/9XTdCsjPXifLqo5et-YoGA.ttf"
    }
   },
   {
@@ -7226,10 +7225,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/monofett/v4/C6K5L799Rgxzg2brgOaqAw.ttf"
+    "regular": "http://fonts.gstatic.com/s/monofett/v5/C6K5L799Rgxzg2brgOaqAw.ttf"
    }
   },
   {
@@ -7242,10 +7241,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/monoton/v4/aCz8ja_bE4dg-7agSvExdw.ttf"
+    "regular": "http://fonts.gstatic.com/s/monoton/v5/aCz8ja_bE4dg-7agSvExdw.ttf"
    }
   },
   {
@@ -7259,10 +7258,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/monsieurladoulaise/v3/IMAdMj6Eq9jZ46CPctFtMKP61oAqTJXlx5ZVOBmcPdM.ttf"
+    "regular": "http://fonts.gstatic.com/s/monsieurladoulaise/v4/IMAdMj6Eq9jZ46CPctFtMKP61oAqTJXlx5ZVOBmcPdM.ttf"
    }
   },
   {
@@ -7275,10 +7274,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/montaga/v2/PwTwUboiD-M4-mFjZfJs2A.ttf"
+    "regular": "http://fonts.gstatic.com/s/montaga/v3/PwTwUboiD-M4-mFjZfJs2A.ttf"
    }
   },
   {
@@ -7344,11 +7343,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/montserratsubrayada/v2/nzoCWCz0e9c7Mr2Gl8bbgrJymm6ilkk9f0nDA_sC_qk.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/montserratsubrayada/v2/wf-IKpsHcfm0C9uaz9IeGJvEcF1LWArDbGWgKZSH9go.ttf"
+    "regular": "http://fonts.gstatic.com/s/montserratsubrayada/v3/nzoCWCz0e9c7Mr2Gl8bbgrJymm6ilkk9f0nDA_sC_qk.ttf",
+    "700": "http://fonts.gstatic.com/s/montserratsubrayada/v3/wf-IKpsHcfm0C9uaz9IeGJvEcF1LWArDbGWgKZSH9go.ttf"
    }
   },
   {
@@ -7361,10 +7360,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/moul/v6/Kb0ALQnfyXawP1a_P_gpTQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/moul/v7/Kb0ALQnfyXawP1a_P_gpTQ.ttf"
    }
   },
   {
@@ -7377,10 +7376,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-06-04",
+   "version": "v8",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/moulpali/v7/diD74BprGhmVkJoerKmrKA.ttf"
+    "regular": "http://fonts.gstatic.com/s/moulpali/v8/diD74BprGhmVkJoerKmrKA.ttf"
    }
   },
   {
@@ -7412,10 +7411,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mousememoirs/v2/NBFaaJFux_j0AQbAsW3QeH8f0n03UdmQgF_CLvNR2vg.ttf"
+    "regular": "http://fonts.gstatic.com/s/mousememoirs/v3/NBFaaJFux_j0AQbAsW3QeH8f0n03UdmQgF_CLvNR2vg.ttf"
    }
   },
   {
@@ -7446,10 +7445,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mrdafoe/v3/s32Q1S6ZkT7EaX53mUirvQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/mrdafoe/v4/s32Q1S6ZkT7EaX53mUirvQ.ttf"
    }
   },
   {
@@ -7463,10 +7462,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mrdehaviland/v3/fD8y4L6PJ4vqDk7z8Y8e27v4lrhng1lzu7-weKO6cw8.ttf"
+    "regular": "http://fonts.gstatic.com/s/mrdehaviland/v4/fD8y4L6PJ4vqDk7z8Y8e27v4lrhng1lzu7-weKO6cw8.ttf"
    }
   },
   {
@@ -7480,10 +7479,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mrssaintdelafield/v2/vuWagfFT7bj9lFtZOFBwmjHMBelqWf3tJeGyts2SmKU.ttf"
+    "regular": "http://fonts.gstatic.com/s/mrssaintdelafield/v3/vuWagfFT7bj9lFtZOFBwmjHMBelqWf3tJeGyts2SmKU.ttf"
    }
   },
   {
@@ -7497,10 +7496,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mrssheppards/v3/2WFsWMV3VUeCz6UVH7UjCn8f0n03UdmQgF_CLvNR2vg.ttf"
+    "regular": "http://fonts.gstatic.com/s/mrssheppards/v4/2WFsWMV3VUeCz6UVH7UjCn8f0n03UdmQgF_CLvNR2vg.ttf"
    }
   },
   {
@@ -7536,10 +7535,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/mysteryquest/v2/467jJvg0c7HgucvBB9PLDyeUSrabuTpOsMEiRLtKwk0.ttf"
+    "regular": "http://fonts.gstatic.com/s/mysteryquest/v3/467jJvg0c7HgucvBB9PLDyeUSrabuTpOsMEiRLtKwk0.ttf"
    }
   },
   {
@@ -7688,11 +7687,11 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/nokora/v7/dRyz1JfnyKPNaRcBNX9F9A.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/nokora/v7/QMqqa4QEOhQpiig3cAPmbQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/nokora/v8/dRyz1JfnyKPNaRcBNX9F9A.ttf",
+    "700": "http://fonts.gstatic.com/s/nokora/v8/QMqqa4QEOhQpiig3cAPmbQ.ttf"
    }
   },
   {
@@ -7706,10 +7705,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/norican/v2/SHnSqhYAWG5sZTWcPzEHig.ttf"
+    "regular": "http://fonts.gstatic.com/s/norican/v3/SHnSqhYAWG5sZTWcPzEHig.ttf"
    }
   },
   {
@@ -7723,10 +7722,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/nosifer/v3/7eJGoIuHRrtcG00j6CptSA.ttf"
+    "regular": "http://fonts.gstatic.com/s/nosifer/v4/7eJGoIuHRrtcG00j6CptSA.ttf"
    }
   },
   {
@@ -7757,8 +7756,8 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -7780,14 +7779,14 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "devanagari",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v4",
    "lastModified": "2014-02-24",
@@ -7809,13 +7808,13 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v2",
    "lastModified": "2014-01-07",
@@ -7836,10 +7835,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novacut/v6/6q12jWcBvj0KO2cMRP97tA.ttf"
+    "regular": "http://fonts.gstatic.com/s/novacut/v7/6q12jWcBvj0KO2cMRP97tA.ttf"
    }
   },
   {
@@ -7852,10 +7851,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novaflat/v6/pK7a0CoGzI684qe_XSHBqQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/novaflat/v7/pK7a0CoGzI684qe_XSHBqQ.ttf"
    }
   },
   {
@@ -7869,10 +7868,10 @@
     "latin",
     "greek"
    ],
-   "version": "v5",
-   "lastModified": "2014-03-18",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novamono/v5/6-SChr5ZIaaasJFBkgrLNw.ttf"
+    "regular": "http://fonts.gstatic.com/s/novamono/v6/6-SChr5ZIaaasJFBkgrLNw.ttf"
    }
   },
   {
@@ -7885,10 +7884,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novaoval/v6/VuukVpKP8BwUf8o9W5LYQQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/novaoval/v7/VuukVpKP8BwUf8o9W5LYQQ.ttf"
    }
   },
   {
@@ -7901,10 +7900,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novaround/v6/7-cK3Ari_8XYYFgVMxVhDvesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/novaround/v7/7-cK3Ari_8XYYFgVMxVhDvesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -7917,10 +7916,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novascript/v6/dEvxQDLgx1M1TKY-NmBWYaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/novascript/v7/dEvxQDLgx1M1TKY-NmBWYaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -7933,10 +7932,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/novaslim/v6/rPYXC81_VL2EW-4CzBX65g.ttf"
+    "regular": "http://fonts.gstatic.com/s/novaslim/v7/rPYXC81_VL2EW-4CzBX65g.ttf"
    }
   },
   {
@@ -7965,10 +7964,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/numans/v4/g5snI2p6OEjjTNmTHyBdiQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/numans/v5/g5snI2p6OEjjTNmTHyBdiQ.ttf"
    }
   },
   {
@@ -8001,10 +8000,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/odormeanchey/v6/GK3E7EjPoBkeZhYshGFo0eVKG8sq4NyGgdteJLvqLDs.ttf"
+    "regular": "http://fonts.gstatic.com/s/odormeanchey/v7/GK3E7EjPoBkeZhYshGFo0eVKG8sq4NyGgdteJLvqLDs.ttf"
    }
   },
   {
@@ -8017,10 +8016,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/offside/v2/v0C913SB8wqQUvcu1faUqw.ttf"
+    "regular": "http://fonts.gstatic.com/s/offside/v3/v0C913SB8wqQUvcu1faUqw.ttf"
    }
   },
   {
@@ -8054,10 +8053,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/oldenburg/v2/dqA_M_uoCVXZbCO-oKBTnQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/oldenburg/v3/dqA_M_uoCVXZbCO-oKBTnQ.ttf"
    }
   },
   {
@@ -8091,11 +8090,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/oleoscriptswashcaps/v2/vdWhGqsBUAP-FF3NOYTe4iMF4kXAPemmyaDpMXQ31P0.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/oleoscriptswashcaps/v2/HMO3ftxA9AU5floml9c755reFYaXZ4zuJXJ8fr8OO1g.ttf"
+    "regular": "http://fonts.gstatic.com/s/oleoscriptswashcaps/v3/vdWhGqsBUAP-FF3NOYTe4iMF4kXAPemmyaDpMXQ31P0.ttf",
+    "700": "http://fonts.gstatic.com/s/oleoscriptswashcaps/v3/HMO3ftxA9AU5floml9c755reFYaXZ4zuJXJ8fr8OO1g.ttf"
    }
   },
   {
@@ -8115,17 +8114,17 @@
     "800italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "devanagari",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v8",
-   "lastModified": "2014-02-24",
+   "lastModified": "2014-06-26",
    "files": {
     "300": "http://themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTS3USBnSvpkopQaUR-2r7iU.ttf",
     "300italic": "http://themes.googleusercontent.com/static/fonts/opensans/v8/PRmiXeptR36kaC0GEAetxi9-WlPSxbfiI49GsXo3q0g.ttf",
@@ -8149,13 +8148,13 @@
     "700"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v7",
    "lastModified": "2014-01-07",
@@ -8174,14 +8173,14 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/oranienbaum/v2/M98jYwCSn0PaFhXXgviCoaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/oranienbaum/v3/M98jYwCSn0PaFhXXgviCoaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -8218,11 +8217,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/oregano/v2/UiLhqNixVv2EpjRoBG6axA.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/oregano/v2/_iwqGEht6XsAuEaCbYG64Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/oregano/v3/UiLhqNixVv2EpjRoBG6axA.ttf",
+    "italic": "http://fonts.gstatic.com/s/oregano/v3/_iwqGEht6XsAuEaCbYG64Q.ttf"
    }
   },
   {
@@ -8252,10 +8251,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/originalsurfer/v3/gdHw6HpSIN4D6Xt7pi1-qIkEz33TDwAZczo_6fY7eg0.ttf"
+    "regular": "http://fonts.gstatic.com/s/originalsurfer/v4/gdHw6HpSIN4D6Xt7pi1-qIkEz33TDwAZczo_6fY7eg0.ttf"
    }
   },
   {
@@ -8289,10 +8288,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/overtherainbow/v5/6gp-gkpI2kie2dHQQLM2jQBdxkZd83xOSx-PAQ2QmiI.ttf"
+    "regular": "http://fonts.gstatic.com/s/overtherainbow/v6/6gp-gkpI2kie2dHQQLM2jQBdxkZd83xOSx-PAQ2QmiI.ttf"
    }
   },
   {
@@ -8333,10 +8332,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/overlocksc/v3/8D7HYDsvS_g1GhBnlHzgzaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/overlocksc/v4/8D7HYDsvS_g1GhBnlHzgzaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -8387,10 +8386,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-03-18",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/oxygenmono/v2/DigTu7k4b7OmM8ubt1Qza6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/oxygenmono/v3/DigTu7k4b7OmM8ubt1Qza6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -8402,14 +8401,14 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-03-18",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ptmono/v2/QUbM8H9yJK5NhpQ0REO6Wg.ttf"
+    "regular": "http://fonts.gstatic.com/s/ptmono/v3/QUbM8H9yJK5NhpQ0REO6Wg.ttf"
    }
   },
   {
@@ -8424,9 +8423,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -8447,9 +8446,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v7",
    "lastModified": "2014-01-07",
@@ -8468,9 +8467,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -8491,9 +8490,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -8514,9 +8513,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -8551,10 +8550,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/paprika/v2/b-VpyoRSieBdB5BPJVF8HQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/paprika/v3/b-VpyoRSieBdB5BPJVF8HQ.ttf"
    }
   },
   {
@@ -8585,10 +8584,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/passeroone/v6/Yc-7nH5deCCv9Ed0MMnAQqCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/passeroone/v7/Yc-7nH5deCCv9Ed0MMnAQqCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -8638,8 +8637,8 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
    "version": "v8",
    "lastModified": "2014-01-07",
@@ -8656,13 +8655,13 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/patrickhandsc/v2/OYFWCgfCR-7uHIovjUZXsbAgSRh1LpJXlLfl8IbsmHg.ttf"
+    "regular": "http://fonts.gstatic.com/s/patrickhandsc/v3/OYFWCgfCR-7uHIovjUZXsbAgSRh1LpJXlLfl8IbsmHg.ttf"
    }
   },
   {
@@ -8708,10 +8707,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/peralta/v2/cTJX5KEuc0GKRU9NXSm-8Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/peralta/v3/cTJX5KEuc0GKRU9NXSm-8Q.ttf"
    }
   },
   {
@@ -8757,10 +8756,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/petrona/v3/nnQwxlP6dhrGovYEFtemTg.ttf"
+    "regular": "http://fonts.gstatic.com/s/petrona/v4/nnQwxlP6dhrGovYEFtemTg.ttf"
    }
   },
   {
@@ -8778,7 +8777,7 @@
     "cyrillic"
    ],
    "version": "v5",
-   "lastModified": "2014-01-07",
+   "lastModified": "2014-06-16",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/philosopher/v5/oZLTrB9jmJsyV0u_T0TKEaCWcynf_cDxXwCLxiixG1c.ttf",
     "italic": "http://themes.googleusercontent.com/static/fonts/philosopher/v5/_9Hnc_gz9k7Qq6uKaeHKmUeOrDcLawS7-ssYqLr2Xp4.ttf",
@@ -8797,10 +8796,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/piedra/v3/owf-AvEEyAj9LJ2tVZ_3Mw.ttf"
+    "regular": "http://fonts.gstatic.com/s/piedra/v4/owf-AvEEyAj9LJ2tVZ_3Mw.ttf"
    }
   },
   {
@@ -8830,10 +8829,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/pirataone/v2/WnbD86B4vB2ckYcL7oxuhvesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/pirataone/v3/WnbD86B4vB2ckYcL7oxuhvesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -8862,12 +8861,12 @@
     "700"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v4",
    "lastModified": "2014-01-07",
@@ -8907,8 +8906,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v8",
    "lastModified": "2014-01-07",
@@ -8935,8 +8934,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v2",
    "lastModified": "2014-01-07",
@@ -8976,8 +8975,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v2",
    "lastModified": "2014-01-07",
@@ -8995,10 +8994,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/pollerone/v4/dkctmDlTPcZ6boC8662RA_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/pollerone/v5/dkctmDlTPcZ6boC8662RA_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -9012,11 +9011,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/poly/v5/bcMAuiacS2qkd54BcwW6_Q.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/poly/v5/Zkx-eIlZSjKUrPGYhV5PeA.ttf"
+    "regular": "http://fonts.gstatic.com/s/poly/v6/bcMAuiacS2qkd54BcwW6_Q.ttf",
+    "italic": "http://fonts.gstatic.com/s/poly/v6/Zkx-eIlZSjKUrPGYhV5PeA.ttf"
    }
   },
   {
@@ -9062,10 +9061,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/portlligatsans/v3/CUEdhRk7oC7up0p6t0g4P6mASEpx5X0ZpsuJOuvfOGA.ttf"
+    "regular": "http://fonts.gstatic.com/s/portlligatsans/v4/CUEdhRk7oC7up0p6t0g4P6mASEpx5X0ZpsuJOuvfOGA.ttf"
    }
   },
   {
@@ -9078,10 +9077,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/portlligatslab/v3/CUEdhRk7oC7up0p6t0g4PxLSPACXvawUYCBEnHsOe30.ttf"
+    "regular": "http://fonts.gstatic.com/s/portlligatslab/v4/CUEdhRk7oC7up0p6t0g4PxLSPACXvawUYCBEnHsOe30.ttf"
    }
   },
   {
@@ -9110,10 +9109,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/preahvihear/v6/82tDI-xTc53CxxOzEG4hDaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/preahvihear/v7/82tDI-xTc53CxxOzEG4hDaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -9125,14 +9124,14 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/pressstart2p/v2/8Lg6LX8-ntOHUQnvQ0E7o1jfl3W46Sz5gOkEVhcFWF4.ttf"
+    "regular": "http://fonts.gstatic.com/s/pressstart2p/v3/8Lg6LX8-ntOHUQnvQ0E7o1jfl3W46Sz5gOkEVhcFWF4.ttf"
    }
   },
   {
@@ -9162,10 +9161,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/prociono/v4/43ZYDHWogdFeNBWTl6ksmw.ttf"
+    "regular": "http://fonts.gstatic.com/s/prociono/v5/43ZYDHWogdFeNBWTl6ksmw.ttf"
    }
   },
   {
@@ -9177,13 +9176,13 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/prostoone/v2/bsqnAElAqk9kX7eABTRFJPesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/prostoone/v3/bsqnAElAqk9kX7eABTRFJPesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -9353,10 +9352,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/quintessential/v2/mmk6ioesnTrEky_Zb92E5s02lXbtMOtZWfuxKeMZO8Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/quintessential/v3/mmk6ioesnTrEky_Zb92E5s02lXbtMOtZWfuxKeMZO8Q.ttf"
    }
   },
   {
@@ -9370,10 +9369,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/qwigley/v4/aDqxws-KubFID85TZHFouw.ttf"
+    "regular": "http://fonts.gstatic.com/s/qwigley/v5/aDqxws-KubFID85TZHFouw.ttf"
    }
   },
   {
@@ -9455,10 +9454,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ralewaydots/v2/lhLgmWCRcyz-QXo8LCzTfC3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/ralewaydots/v3/lhLgmWCRcyz-QXo8LCzTfC3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -9495,10 +9494,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rammettoone/v3/mh0uQ1tV8QgSx9v_KyEYPC3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/rammettoone/v4/mh0uQ1tV8QgSx9v_KyEYPC3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -9512,10 +9511,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ranchers/v2/9ya8CZYhqT66VERfjQ7eLA.ttf"
+    "regular": "http://fonts.gstatic.com/s/ranchers/v3/9ya8CZYhqT66VERfjQ7eLA.ttf"
    }
   },
   {
@@ -9544,10 +9543,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rationale/v5/7M2eN-di0NGLQse7HzJRfg.ttf"
+    "regular": "http://fonts.gstatic.com/s/rationale/v6/7M2eN-di0NGLQse7HzJRfg.ttf"
    }
   },
   {
@@ -9560,10 +9559,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/redressed/v4/3aZ5sTBppH3oSm5SabegtA.ttf"
+    "regular": "http://fonts.gstatic.com/s/redressed/v5/3aZ5sTBppH3oSm5SabegtA.ttf"
    }
   },
   {
@@ -9593,10 +9592,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/revalia/v2/1TKw66fF5_poiL0Ktgo4_A.ttf"
+    "regular": "http://fonts.gstatic.com/s/revalia/v3/1TKw66fF5_poiL0Ktgo4_A.ttf"
    }
   },
   {
@@ -9661,10 +9660,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/risque/v2/92RnElGnl8yHP97-KV3Fyg.ttf"
+    "regular": "http://fonts.gstatic.com/s/risque/v3/92RnElGnl8yHP97-KV3Fyg.ttf"
    }
   },
   {
@@ -9686,13 +9685,13 @@
     "900italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v11",
    "lastModified": "2014-04-21",
@@ -9724,16 +9723,16 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v9",
-   "lastModified": "2014-01-07",
+   "lastModified": "2014-06-17",
    "files": {
     "300": "http://themes.googleusercontent.com/static/fonts/robotocondensed/v9/b9QBgL0iMZfDSpmcXcE8nJRhFVcex_hajThhFkHyhYk.ttf",
     "300italic": "http://themes.googleusercontent.com/static/fonts/robotocondensed/v9/mg0cGfGRUERshzBlvqxeAPYa9bgCHecWXGgisnodcS0.ttf",
@@ -9754,13 +9753,13 @@
     "700"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v3",
    "lastModified": "2014-01-07",
@@ -9891,11 +9890,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rosarivo/v2/EmPiINK0qyqc7KSsNjJamA.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/rosarivo/v2/u3VuWsWQlX1pDqsbz4paNPesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/rosarivo/v3/EmPiINK0qyqc7KSsNjJamA.ttf",
+    "italic": "http://fonts.gstatic.com/s/rosarivo/v3/u3VuWsWQlX1pDqsbz4paNPesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -9908,10 +9907,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rougescript/v3/AgXDSqZJmy12qS0ixjs6Vy3USBnSvpkopQaUR-2r7iU.ttf"
+    "regular": "http://fonts.gstatic.com/s/rougescript/v4/AgXDSqZJmy12qS0ixjs6Vy3USBnSvpkopQaUR-2r7iU.ttf"
    }
   },
   {
@@ -9981,11 +9980,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rufina/v2/s9IFr_fIemiohfZS-ZRDbQ.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/rufina/v2/D0RUjXFr55y4MVZY2Ww_RA.ttf"
+    "regular": "http://fonts.gstatic.com/s/rufina/v3/s9IFr_fIemiohfZS-ZRDbQ.ttf",
+    "700": "http://fonts.gstatic.com/s/rufina/v3/D0RUjXFr55y4MVZY2Ww_RA.ttf"
    }
   },
   {
@@ -10016,10 +10015,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ruluko/v2/lv4cMwJtrx_dzmlK5SDc1g.ttf"
+    "regular": "http://fonts.gstatic.com/s/ruluko/v3/lv4cMwJtrx_dzmlK5SDc1g.ttf"
    }
   },
   {
@@ -10033,10 +10032,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rumraisin/v2/kDiL-ntDOEq26B7kYM7cx_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/rumraisin/v3/kDiL-ntDOEq26B7kYM7cx_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10048,14 +10047,14 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ruslandisplay/v5/SREdhlyLNUfU1VssRBfs3rgH88D3l9N4auRNHrNS708.ttf"
+    "regular": "http://fonts.gstatic.com/s/ruslandisplay/v6/SREdhlyLNUfU1VssRBfs3rgH88D3l9N4auRNHrNS708.ttf"
    }
   },
   {
@@ -10067,8 +10066,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v2",
    "lastModified": "2014-01-07",
@@ -10087,10 +10086,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/ruthie/v4/vJ2LorukHSbWYoEs5juivg.ttf"
+    "regular": "http://fonts.gstatic.com/s/ruthie/v5/vJ2LorukHSbWYoEs5juivg.ttf"
    }
   },
   {
@@ -10104,10 +10103,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/rye/v2/VUrJlpPpSZxspl3w_yNOrQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/rye/v3/VUrJlpPpSZxspl3w_yNOrQ.ttf"
    }
   },
   {
@@ -10137,10 +10136,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sail/v4/iuEoG6kt-bePGvtdpL0GUQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/sail/v5/iuEoG6kt-bePGvtdpL0GUQ.ttf"
    }
   },
   {
@@ -10222,10 +10221,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sarina/v3/XYtRfaSknHIU3NHdfTdXoQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/sarina/v4/XYtRfaSknHIU3NHdfTdXoQ.ttf"
    }
   },
   {
@@ -10256,8 +10255,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v2",
    "lastModified": "2014-01-07",
@@ -10295,10 +10294,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/seaweedscript/v2/eorWAPpOvvWrPw5IHwE60BnpV0hQCek3EmWnCPrvGRM.ttf"
+    "regular": "http://fonts.gstatic.com/s/seaweedscript/v3/eorWAPpOvvWrPw5IHwE60BnpV0hQCek3EmWnCPrvGRM.ttf"
    }
   },
   {
@@ -10327,13 +10326,13 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/seymourone/v2/HrdG2AEG_870Xb7xBVv6C6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/seymourone/v3/HrdG2AEG_870Xb7xBVv6C6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -10418,10 +10417,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-05-08",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sharetech/v2/Dq3DuZ5_0SW3oEfAWFpen_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/sharetech/v3/Dq3DuZ5_0SW3oEfAWFpen_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10434,10 +10433,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-05-08",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sharetechmono/v2/RQxK-3RA0Lnf3gnnnNrAscwD6PD0c3_abh9zHKQtbGU.ttf"
+    "regular": "http://fonts.gstatic.com/s/sharetechmono/v3/RQxK-3RA0Lnf3gnnnNrAscwD6PD0c3_abh9zHKQtbGU.ttf"
    }
   },
   {
@@ -10451,10 +10450,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/shojumaru/v2/WP8cxonzQQVAoI3RJQ2wug.ttf"
+    "regular": "http://fonts.gstatic.com/s/shojumaru/v3/WP8cxonzQQVAoI3RJQ2wug.ttf"
    }
   },
   {
@@ -10483,10 +10482,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-06-04",
+   "version": "v8",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/siemreap/v7/JSK-mOIsXwxo-zE9XDDl_g.ttf"
+    "regular": "http://fonts.gstatic.com/s/siemreap/v8/JSK-mOIsXwxo-zE9XDDl_g.ttf"
    }
   },
   {
@@ -10565,13 +10564,13 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/simonetta/v3/fN8puNuahBo4EYMQgp12Yg.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/simonetta/v3/ynxQ3FqfF_Nziwy3T9ZwL6CWcynf_cDxXwCLxiixG1c.ttf",
-    "900": "http://themes.googleusercontent.com/static/fonts/simonetta/v3/22EwvvJ2r1VwVCxit5LcVi3USBnSvpkopQaUR-2r7iU.ttf",
-    "900italic": "http://themes.googleusercontent.com/static/fonts/simonetta/v3/WUXOpCgBZaRPrWtMCpeKoienaqEuufTBk9XMKnKmgDA.ttf"
+    "regular": "http://fonts.gstatic.com/s/simonetta/v4/fN8puNuahBo4EYMQgp12Yg.ttf",
+    "italic": "http://fonts.gstatic.com/s/simonetta/v4/ynxQ3FqfF_Nziwy3T9ZwL6CWcynf_cDxXwCLxiixG1c.ttf",
+    "900": "http://fonts.gstatic.com/s/simonetta/v4/22EwvvJ2r1VwVCxit5LcVi3USBnSvpkopQaUR-2r7iU.ttf",
+    "900italic": "http://fonts.gstatic.com/s/simonetta/v4/WUXOpCgBZaRPrWtMCpeKoienaqEuufTBk9XMKnKmgDA.ttf"
    }
   },
   {
@@ -10637,11 +10636,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/skranji/v2/jnOLPS0iZmDL7dfWnW3nIw.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/skranji/v2/Lcrhg-fviVkxiEgoadsI1vesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/skranji/v3/jnOLPS0iZmDL7dfWnW3nIw.ttf",
+    "700": "http://fonts.gstatic.com/s/skranji/v3/Lcrhg-fviVkxiEgoadsI1vesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10670,10 +10669,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/smokum/v4/8YP4BuAcy97X8WfdKfxVRw.ttf"
+    "regular": "http://fonts.gstatic.com/s/smokum/v5/8YP4BuAcy97X8WfdKfxVRw.ttf"
    }
   },
   {
@@ -10686,10 +10685,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/smythe/v5/yACD1gy_MpbB9Ft42fUvYw.ttf"
+    "regular": "http://fonts.gstatic.com/s/smythe/v6/yACD1gy_MpbB9Ft42fUvYw.ttf"
    }
   },
   {
@@ -10721,10 +10720,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/snippet/v4/eUcYMLq2GtHZovLlQH_9kA.ttf"
+    "regular": "http://fonts.gstatic.com/s/snippet/v5/eUcYMLq2GtHZovLlQH_9kA.ttf"
    }
   },
   {
@@ -10738,10 +10737,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/snowburstone/v2/zSQzKOPukXRux2oTqfYJjIjjx0o0jr6fNXxPgYh_a8Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/snowburstone/v3/zSQzKOPukXRux2oTqfYJjIjjx0o0jr6fNXxPgYh_a8Q.ttf"
    }
   },
   {
@@ -10754,10 +10753,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sofadione/v2/nirf4G12IcJ6KI8Eoj119fesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/sofadione/v3/nirf4G12IcJ6KI8Eoj119fesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10770,10 +10769,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sofia/v3/Imnvx0Ag9r6iDBFUY5_RaQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/sofia/v4/Imnvx0Ag9r6iDBFUY5_RaQ.ttf"
    }
   },
   {
@@ -10787,10 +10786,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/sonsieone/v3/KSP7xT1OSy0q2ob6RQOTWPesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/sonsieone/v4/KSP7xT1OSy0q2ob6RQOTWPesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10861,8 +10860,8 @@
    ],
    "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
    ],
    "version": "v7",
    "lastModified": "2014-01-07",
@@ -10879,6 +10878,27 @@
     "700italic": "http://themes.googleusercontent.com/static/fonts/sourcesanspro/v7/fpTVHK8qsXbIeTHTrnQH6LVT4locI09aamSzFGQlDMY.ttf",
     "900": "http://themes.googleusercontent.com/static/fonts/sourcesanspro/v7/toadOcfmlt9b38dHJxOBGBA_awHl7mXRjE_LQVochcU.ttf",
     "900italic": "http://themes.googleusercontent.com/static/fonts/sourcesanspro/v7/fpTVHK8qsXbIeTHTrnQH6A0NcF6HPGWR298uWIdxWv0.ttf"
+   }
+  },
+  {
+   "kind": "webfonts#webfont",
+   "family": "Source Serif Pro",
+   "category": "serif",
+   "variants": [
+    "regular",
+    "600",
+    "700"
+   ],
+   "subsets": [
+    "latin",
+    "latin-ext"
+   ],
+   "version": "v1",
+   "lastModified": "2014-06-19",
+   "files": {
+    "regular": "http://themes.googleusercontent.com/static/fonts/sourceserifpro/v1/CeUM4np2c42DV49nanp55YGL0S0YDpKs5GpLtZIQ0m4.ttf",
+    "600": "http://themes.googleusercontent.com/static/fonts/sourceserifpro/v1/yd5lDMt8Sva2PE17yiLarGi4cQnvCGV11m1KlXh97aQ.ttf",
+    "700": "http://themes.googleusercontent.com/static/fonts/sourceserifpro/v1/yd5lDMt8Sva2PE17yiLarEkpYHRvxGNSCrR82n_RDNk.ttf"
    }
   },
   {
@@ -10907,10 +10927,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/spicyrice/v3/WGCtz7cLoggXARPi9OGD6_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/spicyrice/v4/WGCtz7cLoggXARPi9OGD6_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -10973,10 +10993,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/stalemate/v2/wQLCnG0qB6mOu2Wit2dt_w.ttf"
+    "regular": "http://fonts.gstatic.com/s/stalemate/v3/wQLCnG0qB6mOu2Wit2dt_w.ttf"
    }
   },
   {
@@ -10988,8 +11008,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2014-06-04",
@@ -11008,11 +11028,11 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/stardosstencil/v4/ygEOyTW9a6u4fi4OXEZeTFf2eT4jUldwg_9fgfY_tHc.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/stardosstencil/v4/h4ExtgvoXhPtv9Ieqd-XC81wDCbBgmIo8UyjIhmkeSM.ttf"
+    "regular": "http://fonts.gstatic.com/s/stardosstencil/v5/ygEOyTW9a6u4fi4OXEZeTFf2eT4jUldwg_9fgfY_tHc.ttf",
+    "700": "http://fonts.gstatic.com/s/stardosstencil/v5/h4ExtgvoXhPtv9Ieqd-XC81wDCbBgmIo8UyjIhmkeSM.ttf"
    }
   },
   {
@@ -11026,10 +11046,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/stintultracondensed/v3/8DqLK6-YSClFZt3u3EgOUYelbRYnLTTQA1Z5cVLnsI4.ttf"
+    "regular": "http://fonts.gstatic.com/s/stintultracondensed/v4/8DqLK6-YSClFZt3u3EgOUYelbRYnLTTQA1Z5cVLnsI4.ttf"
    }
   },
   {
@@ -11043,10 +11063,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/stintultraexpanded/v2/FeigX-wDDgHMCKuhekhedQ7dxr0N5HY0cZKknTIL6n4.ttf"
+    "regular": "http://fonts.gstatic.com/s/stintultraexpanded/v3/FeigX-wDDgHMCKuhekhedQ7dxr0N5HY0cZKknTIL6n4.ttf"
    }
   },
   {
@@ -11061,11 +11081,11 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "300": "http://themes.googleusercontent.com/static/fonts/stoke/v4/Sell9475FOS8jUqQsfFsUQ.ttf",
-    "regular": "http://themes.googleusercontent.com/static/fonts/stoke/v4/A7qJNoqOm2d6o1E6e0yUFg.ttf"
+    "300": "http://fonts.gstatic.com/s/stoke/v5/Sell9475FOS8jUqQsfFsUQ.ttf",
+    "regular": "http://fonts.gstatic.com/s/stoke/v5/A7qJNoqOm2d6o1E6e0yUFg.ttf"
    }
   },
   {
@@ -11126,10 +11146,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/supermercadoone/v4/kMGPVTNFiFEp1U274uBMb4mm5hmSKNFf3C5YoMa-lrM.ttf"
+    "regular": "http://fonts.gstatic.com/s/supermercadoone/v5/kMGPVTNFiFEp1U274uBMb4mm5hmSKNFf3C5YoMa-lrM.ttf"
    }
   },
   {
@@ -11142,10 +11162,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v7",
-   "lastModified": "2014-01-07",
+   "version": "v8",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/suwannaphum/v7/1jIPOyXied3T79GCnSlCN6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/suwannaphum/v8/1jIPOyXied3T79GCnSlCN6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -11158,10 +11178,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/swankyandmoomoo/v4/orVNZ9kDeE3lWp3U3YELu9DVLKqNC3_XMNHhr8S94FU.ttf"
+    "regular": "http://fonts.gstatic.com/s/swankyandmoomoo/v5/orVNZ9kDeE3lWp3U3YELu9DVLKqNC3_XMNHhr8S94FU.ttf"
    }
   },
   {
@@ -11210,10 +11230,10 @@
    "subsets": [
     "khmer"
    ],
-   "version": "v6",
-   "lastModified": "2014-06-04",
+   "version": "v7",
+   "lastModified": "2014-06-16",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/taprom/v6/-KByU3BaUsyIvQs79qFObg.ttf"
+    "regular": "http://fonts.gstatic.com/s/taprom/v7/-KByU3BaUsyIvQs79qFObg.ttf"
    }
   },
   {
@@ -11258,9 +11278,9 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic-ext",
+    "latin-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -11279,10 +11299,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/textmeone/v2/9em_3ckd_P5PQkP4aDyDLqCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/textmeone/v3/9em_3ckd_P5PQkP4aDyDLqCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -11332,13 +11352,13 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
+    "greek",
+    "latin-ext",
+    "greek-ext",
     "cyrillic",
     "vietnamese",
-    "greek",
-    "latin-ext"
+    "cyrillic-ext"
    ],
    "version": "v6",
    "lastModified": "2014-01-07",
@@ -11360,10 +11380,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/titanone/v2/FbvpRvzfV_oipS0De3iAZg.ttf"
+    "regular": "http://fonts.gstatic.com/s/titanone/v3/FbvpRvzfV_oipS0De3iAZg.ttf"
    }
   },
   {
@@ -11413,10 +11433,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/tradewinds/v3/sDOCVgAxw6PEUi2xdMsoDaCWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/tradewinds/v4/sDOCVgAxw6PEUi2xdMsoDaCWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -11448,12 +11468,12 @@
    "subsets": [
     "latin"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/trochut/v2/6Y65B0x-2JsnYt16OH5omw.ttf",
-    "italic": "http://themes.googleusercontent.com/static/fonts/trochut/v2/pczUwr4ZFvC79TgNO5cZng.ttf",
-    "700": "http://themes.googleusercontent.com/static/fonts/trochut/v2/lWqNOv6ISR8ehNzGLFLnJ_esZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/trochut/v3/6Y65B0x-2JsnYt16OH5omw.ttf",
+    "italic": "http://fonts.gstatic.com/s/trochut/v3/pczUwr4ZFvC79TgNO5cZng.ttf",
+    "700": "http://fonts.gstatic.com/s/trochut/v3/lWqNOv6ISR8ehNzGLFLnJ_esZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -11467,10 +11487,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v3",
-   "lastModified": "2014-01-07",
+   "version": "v4",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/trykker/v3/YiVrVJpBFN7I1l_CWk6yYQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/trykker/v4/YiVrVJpBFN7I1l_CWk6yYQ.ttf"
    }
   },
   {
@@ -11483,10 +11503,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/tulpenone/v4/lwcTfVIEVxpZLZlWzR5baPesZW2xOQ-xsNqO47m55DA.ttf"
+    "regular": "http://fonts.gstatic.com/s/tulpenone/v5/lwcTfVIEVxpZLZlWzR5baPesZW2xOQ-xsNqO47m55DA.ttf"
    }
   },
   {
@@ -11504,12 +11524,12 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2014-01-07",
@@ -11532,15 +11552,15 @@
     "regular"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v4",
-   "lastModified": "2014-01-07",
+   "lastModified": "2014-06-16",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/ubuntucondensed/v4/DBCt-NXN57MTAFjitYxdrKDbm6fPDOZJsR8PmdG62gY.ttf"
    }
@@ -11556,15 +11576,15 @@
     "700italic"
    ],
    "subsets": [
-    "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "greek",
-    "latin-ext"
+    "latin-ext",
+    "greek-ext",
+    "cyrillic",
+    "cyrillic-ext"
    ],
    "version": "v4",
-   "lastModified": "2014-03-18",
+   "lastModified": "2014-06-17",
    "files": {
     "regular": "http://themes.googleusercontent.com/static/fonts/ubuntumono/v4/EgeuS9OtEmA0y_JRo03MQaCWcynf_cDxXwCLxiixG1c.ttf",
     "italic": "http://themes.googleusercontent.com/static/fonts/ubuntumono/v4/KAKuHXAHZOeECOWAHsRKA0eOrDcLawS7-ssYqLr2Xp4.ttf",
@@ -11613,8 +11633,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2014-06-04",
@@ -11633,10 +11653,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/unicaone/v2/KbYKlhWMDpatWViqDkNQgA.ttf"
+    "regular": "http://fonts.gstatic.com/s/unicaone/v3/KbYKlhWMDpatWViqDkNQgA.ttf"
    }
   },
   {
@@ -11649,10 +11669,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "700": "http://themes.googleusercontent.com/static/fonts/unifrakturcook/v6/ASwh69ykD8iaoYijVEU6RrWZkcsCTHKV51zmcUsafQ0.ttf"
+    "700": "http://fonts.gstatic.com/s/unifrakturcook/v7/ASwh69ykD8iaoYijVEU6RrWZkcsCTHKV51zmcUsafQ0.ttf"
    }
   },
   {
@@ -11665,10 +11685,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/unifrakturmaguntia/v5/7KWy3ymCVR_xfAvvcIXm3-kdNg30GQauG_DE-tMYtWk.ttf"
+    "regular": "http://fonts.gstatic.com/s/unifrakturmaguntia/v6/7KWy3ymCVR_xfAvvcIXm3-kdNg30GQauG_DE-tMYtWk.ttf"
    }
   },
   {
@@ -11715,10 +11735,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v6",
-   "lastModified": "2014-01-07",
+   "version": "v7",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/unna/v6/UAS0AM7AmbdCNY_80xyAZQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/unna/v7/UAS0AM7AmbdCNY_80xyAZQ.ttf"
    }
   },
   {
@@ -11731,10 +11751,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-03-18",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/vt323/v5/ITU2YQfM073o1iYK3nSOmQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/vt323/v6/ITU2YQfM073o1iYK3nSOmQ.ttf"
    }
   },
   {
@@ -11797,10 +11817,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/vastshadow/v4/io4hqKX3ibiqQQjYfW0-h6CWcynf_cDxXwCLxiixG1c.ttf"
+    "regular": "http://fonts.gstatic.com/s/vastshadow/v5/io4hqKX3ibiqQQjYfW0-h6CWcynf_cDxXwCLxiixG1c.ttf"
    }
   },
   {
@@ -11813,10 +11833,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/vibur/v5/xB9aKsUbJo68XP0bAg2iLw.ttf"
+    "regular": "http://fonts.gstatic.com/s/vibur/v6/xB9aKsUbJo68XP0bAg2iLw.ttf"
    }
   },
   {
@@ -11863,10 +11883,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/voces/v2/QoBH6g6yKgNIgvL8A2aE2Q.ttf"
+    "regular": "http://fonts.gstatic.com/s/voces/v3/QoBH6g6yKgNIgvL8A2aE2Q.ttf"
    }
   },
   {
@@ -11955,10 +11975,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v5",
-   "lastModified": "2014-01-07",
+   "version": "v6",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/wallpoet/v5/hmum4WuBN4A0Z_7367NDIg.ttf"
+    "regular": "http://fonts.gstatic.com/s/wallpoet/v6/hmum4WuBN4A0Z_7367NDIg.ttf"
    }
   },
   {
@@ -12005,10 +12025,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-18",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/wellfleet/v2/J5tOx72iFRPgHYpbK9J4XQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/wellfleet/v3/J5tOx72iFRPgHYpbK9J4XQ.ttf"
    }
   },
   {
@@ -12022,10 +12042,10 @@
     "latin",
     "latin-ext"
    ],
-   "version": "v2",
-   "lastModified": "2014-01-07",
+   "version": "v3",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/wendyone/v2/R8CJT2oDXdMk_ZtuHTxoxw.ttf"
+    "regular": "http://fonts.gstatic.com/s/wendyone/v3/R8CJT2oDXdMk_ZtuHTxoxw.ttf"
    }
   },
   {
@@ -12092,8 +12112,8 @@
    ],
    "subsets": [
     "latin",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "cyrillic"
    ],
    "version": "v7",
    "lastModified": "2014-01-07",
@@ -12127,10 +12147,10 @@
    "subsets": [
     "latin"
    ],
-   "version": "v4",
-   "lastModified": "2014-01-07",
+   "version": "v5",
+   "lastModified": "2014-06-24",
    "files": {
-    "regular": "http://themes.googleusercontent.com/static/fonts/zeyada/v4/hmonmGYYFwqTZQfG2nRswQ.ttf"
+    "regular": "http://fonts.gstatic.com/s/zeyada/v5/hmonmGYYFwqTZQfG2nRswQ.ttf"
    }
   }
  ]

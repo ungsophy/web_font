@@ -14,9 +14,10 @@ describe WebFont::Downloader do
 
       it 'downloads all fonts in the item' do
         downloader = WebFont::Downloader.new
-        downloader.download('Open Sans', destination_path)
+        fonts = downloader.download('Open Sans', destination_path)
 
         Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal 10
+        Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal fonts.size
       end
     end
 
@@ -38,9 +39,10 @@ describe WebFont::Downloader do
         Dir.glob('test/fonts/*.ttf').size.must_equal 11
 
         downloader = WebFont::Downloader.new
-        downloader.download('Open Sans', destination_path)
+        fonts = downloader.download('Open Sans', destination_path)
 
         Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal 10
+        Dir.glob(File.join(destination_path, '*.ttf')).size.must_equal fonts.size
       end
     end
   end
