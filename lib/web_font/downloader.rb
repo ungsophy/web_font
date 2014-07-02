@@ -11,10 +11,10 @@ module WebFont
     #
     # Returns nothing
     def download(font_family, destination_path, from_cache = true)
-      item = finder.find(font_family)
-      return if item.empty?
-
       downloaded_fonts = []
+      item             = finder.find(font_family)
+      return downloaded_fonts if item.empty?
+
       font_family      = item['family'].gsub(/\s/, '-')
       item['files'].each do |variant, url|
         filename  = "#{font_family}-#{variant}#{File.extname(url)}"
