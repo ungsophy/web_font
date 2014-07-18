@@ -23,6 +23,8 @@ describe WebFont::Finder do
       item      = finder.find(font_name)
 
       item.must_be_empty
+      finder.find('').must_be_empty
+      finder.find(nil).must_be_empty
     end
   end
 

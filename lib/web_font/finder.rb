@@ -12,7 +12,7 @@ module WebFont
     #
     # Returns hash
     def find(font_family)
-      font_family = font_family.downcase
+      font_family = font_family.to_s.downcase
       alphabet    = font_family[0]
       hash        = indices[alphabet]
 
