@@ -1,6 +1,6 @@
 # WebFont
 
-WebFont is a Ruby library that will help you download fonts from Google. For now, we support only [Google Font](http://www.google.com/fonts).
+WebFont is a Ruby library that will help you download fonts from the web. For now, we support only [Google Font](http://www.google.com/fonts).
 
 ## Installation
 
