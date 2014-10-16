@@ -1,6 +1,8 @@
 module WebFont
   module Index
 
+    INDEX_URL = 'https://www.googleapis.com/webfonts/v1/webfonts'
+
     class << self
       attr_accessor :path
     end
@@ -40,9 +42,9 @@ module WebFont
 
       FileUtils.mkdir_p(path) unless Dir.exist?(path)
 
-      url         = "https://www.googleapis.com/webfonts/v1/webfonts?key=#{ENV['GOOGLE_API_KEY']}"
+      uri         = "#{INDEX_URL}?key=#{ENV['GOOGLE_API_KEY']}"
       output_path = "#{path}/fonts.json"
-      Command.wget(url, output_path)
+      HTTP.get(uri, output_path)
 
       index
     end

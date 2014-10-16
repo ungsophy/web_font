@@ -8,9 +8,9 @@ end
 task default: :test
 
 # ENV['GOOGLE_API_KEY']        ||= ''
-WebFont::Index.path            = File.expand_path('../cache/index', __FILE__)
+WebFont::Index.path            = File.join(__dir__, 'cache', 'index')
 
 WebFont::LocalCache.cache      = true
-WebFont::LocalCache.cache_path = File.expand_path('../cache/fonts', __FILE__)
+WebFont::LocalCache.cache_path = File.join(__dir__, 'cache', 'fonts')
 
 WebFont::CacheTask.define_tasks!

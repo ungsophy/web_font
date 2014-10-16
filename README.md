@@ -16,18 +16,9 @@ Or install it yourself as:
 
     $ gem install web_font
 
-## Dependencies
-
-WebFont depends on [wget](http://en.wikipedia.org/wiki/Wget). Make sure you have it installed first.
-
-For Ubuntu:
-```
-sudo apt-get install wget
-```
+## Usage
 
 To download font from Google, you need to have [Google API Key](https://www.google.com/search?q=google+api+key), then set ``GOOGLE_API_KEY`` environment variable.
-
-## Usage
 
 ```ruby
 require 'web_font'

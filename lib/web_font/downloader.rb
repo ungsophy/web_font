@@ -25,7 +25,7 @@ module WebFont
           downloaded_fonts << font_path
         else
           unless File.exist?(font_path)
-            Command.wget(url, font_path)
+            HTTP.get(url, font_path)
             LocalCache.save(font_path)
             downloaded_fonts << font_path
           end

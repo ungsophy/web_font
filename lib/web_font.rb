@@ -1,8 +1,9 @@
 require 'json'
 require 'fileutils'
+require 'net/http'
 
 require 'web_font/version'
-require 'web_font/command'
+require 'web_font/http'
 require 'web_font/downloader'
 require 'web_font/index'
 require 'web_font/finder'
