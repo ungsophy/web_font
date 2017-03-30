@@ -22,14 +22,13 @@ module WebFont
 
         if from_cache && LocalCache.enable? && cache_path = LocalCache.path(filename)
           FileUtils.copy(cache_path, destination_path)
-          downloaded_fonts << font_path
         else
           unless File.exist?(font_path)
             HTTP.get(url, font_path)
             LocalCache.save(font_path)
-            downloaded_fonts << font_path
           end
         end
+        downloaded_fonts << font_path
       end
 
       downloaded_fonts
